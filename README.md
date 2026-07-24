@@ -1,4 +1,5 @@
 # 👋 Salut, moi c'est Momar DIOP !
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=gray&right_color=blue)
 
 ### 🚀 Développeur Full-Stack Junior | Web, Mobile & Intégration IA
 
