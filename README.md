@@ -18,10 +18,6 @@ Développeur passionné par la création d'applications web/mobiles performantes
 
 ## 🛠️ Compétences & Technologies
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 💻 Langages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,21 +26,7 @@ Développeur passionné par la création d'applications web/mobiles performantes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-    </td>
-    <td width="50%" valign="top">
-
-### 🤖 Intégration IA
-![OpenAI](https://img.shields.io/badge/OpenAI_/_ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agents IA](https://img.shields.io/badge/Chatbots_&_Agents_IA-00A67E?style=for-the-badge&logo=probot&logoColor=white)
-
-### 🛠️ Outils
-![Git](https://img.shields.io/badge/Git_/_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-0055DA?style=for-the-badge&logo=postman&logoColor=white)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### ⚡ Frameworks & Bibliothèques
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,8 +40,13 @@ Développeur passionné par la création d'applications web/mobiles performantes
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-    </td>
-    <td width="50%" valign="top">
+---
+
+### 🤖 Intégration IA
+![OpenAI](https://img.shields.io/badge/OpenAI_/_ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agents IA](https://img.shields.io/badge/Chatbots_&_Agents_IA-00A67E?style=for-the-badge&logo=probot&logoColor=white)
+
+---
 
 ### 🗄️ Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,14 +54,14 @@ Développeur passionné par la création d'applications web/mobiles performantes
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🎨 Design & Marketing
+---
+
+### 🛠️ Outils & Domaines Spécifiques
+![Git](https://img.shields.io/badge/Git_/_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-0055DA?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma_(UI/UX)-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO_&_Marketing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-    </td>
-  </tr>
-</table>
 
 ---
 
