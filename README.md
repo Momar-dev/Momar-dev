@@ -1,8 +1,8 @@
 # 👋 Salut, moi c'est Momar DIOP !
 
-### 🚀 Développeur Full-Stack | Web, Mobile & Intégration IA
+### 🚀 Développeur Full-Stack Junior | Web, Mobile & Intégration IA
 
-Développeur passionné par le développement d'applications web/mobiles performantes et l'intégration de solutions basées sur l'Intelligence Artificielle.
+Développeur passionné par la création d'applications web/mobiles performantes et l'intégration de solutions basées sur l'Intelligence Artificielle.
 
 ---
 
@@ -23,23 +23,23 @@ Développeur passionné par le développement d'applications web/mobiles perform
     <td width="50%" valign="top">
 
 ### 💻 Langages
-* **HTML5** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%`
-* **CSS3** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
-* **PHP** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
-* **Python** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
-* **Java** <br> 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `70%`
-* **JavaScript** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
     </td>
     <td width="50%" valign="top">
 
 ### 🤖 Intégration IA
-* **API OpenAI / ChatGPT** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%`
-* **Chatbots & Agents IA** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+![OpenAI](https://img.shields.io/badge/OpenAI_/_ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agents IA](https://img.shields.io/badge/Chatbots_&_Agents_IA-00A67E?style=for-the-badge&logo=probot&logoColor=white)
 
 ### 🛠️ Outils
-* **Git / GitHub** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
-* **API REST** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
+![Git](https://img.shields.io/badge/Git_/_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-0055DA?style=for-the-badge&logo=postman&logoColor=white)
 
     </td>
   </tr>
@@ -47,30 +47,30 @@ Développeur passionné par le développement d'applications web/mobiles perform
     <td width="50%" valign="top">
 
 ### ⚡ Frameworks & Bibliothèques
-* **React** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
-* **Next.js** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
-* **Bootstrap** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
-* **Tailwind CSS** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
-* **React Native (Expo)** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
-* **Node.js** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
-* **Express** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
-* **Spring Boot** <br> 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `70%`
-* **Django** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
-* **Flutter** <br> 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `70%`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native_(Expo)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
     </td>
     <td width="50%" valign="top">
 
 ### 🗄️ Bases de données
-* **MySQL** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%`
-* **PostgreSQL** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
-* **SQLite** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
-* **Firebase** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🎨 Design & Domaines Spécifiques
-* **Figma (UI/UX)** <br> 🟩🟩🟩🟩🟩🟩🟩   `75%`
-* **WordPress** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
-* **SEO & Marketing Digital** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+### 🎨 Design & Marketing
+![Figma](https://img.shields.io/badge/Figma_(UI/UX)-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO_&_Marketing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
     </td>
   </tr>
