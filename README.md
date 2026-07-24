@@ -2,50 +2,84 @@
 
 ### 🚀 Développeur Full-Stack | Web, Mobile & Intégration IA
 
-Bienvenue sur mon profil GitHub ! Passionné par le développement d'applications performantes et l'intégration de fonctionnalités IA, je conçois des solutions techniques modernes et évolutives.
+Développeur passionné par le développement d'applications web/mobiles performantes et l'intégration de solutions basées sur l'Intelligence Artificielle.
 
 ---
 
-### 📌 À propos de moi
+### 📬 Contact & Liens
 
+* 📧 **Email** : [momardiop0311@gmail.com](mailto:momardiop0311@gmail.com)
+* 📱 **Téléphone / WhatsApp** : [+221 77 754 20 53](https://wa.me/221777542053)
 * 🌐 **Portfolio** : [momar-dev.netlify.app](https://momar-dev.netlify.app/)
-* 💼 **Mon CV** : [Télécharger mon CV](https://drive.google.com/file/d/1TUEM2gaTIcQg6xhLg68gQDVraLYwO1kO/view?usp=drive_link)
-* 🧠 **En apprentissage** : L'IA Générative avancée, les Agents IA et les architectures Cloud.
-* 💬 **Mes technologies clés** : React Native, Node.js, Spring Boot, Firebase, APIs IA (Gemini, OpenAI).
-* ✉️ **Contact** : [momardiop091@gmail.com](mailto:momardiop091@gmail.com)
+* 💼 **Mon CV** : [Consulter mon CV](https://drive.google.com/file/d/1TUEM2gaTIcQg6xhLg68gQDVralYwO1kO/view?usp=drive_link)
+* 🔗 **LinkedIn** : [Momar DIOP](https://github.com/Momar-dev)
 
 ---
 
-### 🛠️ Stack Technique
+## 🛠️ Compétences & Technologies
 
-#### **Développement Web & Mobile**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-#### **Backend & Bases de Données**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 💻 Langages
+* **HTML5** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%`
+* **CSS3** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+* **PHP** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+* **Python** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+* **Java** <br> 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `70%`
+* **JavaScript** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
 
-#### **Langages & Outils**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    </td>
+    <td width="50%" valign="top">
+
+### 🤖 Intégration IA
+* **API OpenAI / ChatGPT** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%`
+* **Chatbots & Agents IA** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+
+### 🛠️ Outils
+* **Git / GitHub** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+* **API REST** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚡ Frameworks & Bibliothèques
+* **React** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
+* **Next.js** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+* **Bootstrap** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+* **Tailwind CSS** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
+* **React Native (Expo)** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+* **Node.js** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `80%`
+* **Express** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+* **Spring Boot** <br> 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `70%`
+* **Django** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+* **Flutter** <br> 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `70%`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🗄️ Bases de données
+* **MySQL** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `90%`
+* **PostgreSQL** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+* **SQLite** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+* **Firebase** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+
+### 🎨 Design & Domaines Spécifiques
+* **Figma (UI/UX)** <br> 🟩🟩🟩🟩🟩🟩🟩   `75%`
+* **WordPress** <br> 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ `85%`
+* **SEO & Marketing Digital** <br> 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ `75%`
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 Retrouvez-moi sur
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Momar-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://momar-dev.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momardiop0311@gmail.com)
