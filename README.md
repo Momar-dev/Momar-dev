@@ -1,9 +1,29 @@
 # 👋 Salut, moi c'est Momar DIOP !
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=gray&right_color=blue)
 
 ### 🚀 Développeur Full-Stack Junior | Web, Mobile & Intégration IA
 
-Développeur passionné par la création d'applications web/mobiles performantes et l'intégration de solutions basées sur l'Intelligence Artificielle.
+Développeur passionné et orienté solutions, je me spécialise dans la conception et le déploiement d'applications web et mobiles modernes, performantes et évolutives.
+
+Fort d'une solide maîtrise de l'ensemble de la chaîne de développement (Frontend, Backend, Mobile et Bases de données), je me consacre également à l'**intégration poussée de l'Intelligence Artificielle** (APIs OpenAI, Google Gemini, création d'Agents IA et Chatbots).
+
+---
+
+### 💡 Ce que je fais au quotidien
+
+* 📱 **Développement Mobile & Web** : Création d'applications complètes avec des architectures robustes et des interfaces modernes (React Native/Expo, Flutter, React JS, Node.js, Spring Boot).
+* 🤖 **Intégration d'IA & Innovation** : Implémentation d'assistants virtuels intelligents capables d'interagir avec des bases de données en temps réel (*Function Calling*) et automatisation de processus.
+* 🛡️ **Sécurité & Architecture** : Conception d'APIs REST sécurisées, modélisation de bases de données et mise en place de mécanismes anti-fraude (QR codes éphémères, Device Fingerprinting).
+* ⚙️ **Méthodologies & Qualité** : Rigueur technique, respect des bonnes pratiques de versionnage (Git Workflow), optimisation SEO et veille technologique constante.
+
+---
+
+### 🚀 Projets Phares
+
+* 📲 **Wallu** : Super-App mobile de mise en relation clients/prestataires intégrant un assistant IA en temps réel via l'API Google Gemini (React Native, Expo, Firebase, Cloudinary).
+* 🔒 **E-Pointage** : Système anti-fraude de pointage par QR codes dynamiques éphémères et Device Fingerprinting (React Native, Node.js, SQLite, SSE).
+* 🍽️ **Plateforme de Réservation Restau** : Application web fullstack dynamique avec gestion de réservation en temps réel (React, Node.js, Express, MongoDB).
 
 ---
 
