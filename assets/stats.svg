@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="140" viewBox="0 0 680 140">
+  <rect width="100%" height="100%" fill="#0b1220" />
+  <g font-family="Segoe UI, Roboto, Arial, sans-serif">
+    <text x="24" y="48" font-size="18" fill="#e6eef8">Statistiques GitHub — temporairement indisponible</text>
+    <text x="24" y="78" font-size="12" fill="#9fb3d6">Les cartes dynamiques (github-readme-stats) renvoient actuellement une erreur 503.</text>
+    <text x="24" y="102" font-size="12" fill="#9fb3d6">Cette image a été mise en cache localement. Elle sera remplacée automatiquement quand le service reviendra.</text>
+  </g>
+</svg>
