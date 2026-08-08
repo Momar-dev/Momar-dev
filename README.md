@@ -6,16 +6,28 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;Mobile+et+Int%C3%A9gration+IA;Ouvert+aux+opportunit%C3%A9s)](https://git.io/typing-svg)
 
+<a href="https://momar-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/momar-diop"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:momardiop0311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/221777542053"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1TUEM2gaTIcQg6xhLg68gQDVralYwO1kO/view?usp=drive_link"><img src="https://img.shields.io/badge/CV-24292F?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Appli_publi%C3%A9e_sur_App_Store_et_Play_Store-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plus_de_10_projets_r%C3%A9alis%C3%A9s-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Licence_Informatique_2026-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certifi%C3%A9_Google_Cloud_%26_Cisco-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Disponible_imm%C3%A9diatement-2EA043?style=for-the-badge" />
+
 </div>
 
 <br>
 
-Développeur orienté produit, je conçois des applications mobiles et web résilientes, scalables et centrées utilisateur. J'intègre des assistants IA pour automatiser et enrichir l'expérience.
+Développeur orienté produit : je conçois des applications mobiles et web complètes, du cahier des charges au déploiement. Dernière livraison : **Wallu**, une super-app mobile avec assistant IA intégré, développée pour un client et publiée sur l'App Store et le Play Store.
 
-- 🔭 Actuellement : développement de **Wallu**, une super-app mobile réalisée pour un client - disponible sur l'**App Store** et le **Play Store** - & intégration d'agents IA
+- 🔭 Actuellement : intégration d'agents IA & améliorations sur Wallu (projet client)
 - 🌱 J'apprends : déploiement cloud avancé, pipelines CI/CD et orchestration d'agents
-- 💼 Ouvert aux missions freelance, collaborations & opportunités
-- 📫 Contact : [momardiop0311@gmail.com](mailto:momardiop0311@gmail.com) · [momar-dev.netlify.app](https://momar-dev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/momar-diop)
 
 <br>
 
@@ -131,14 +143,5 @@ Résolution de problèmes · Communication · Travail en équipe · Autonomie
 - 🎓 Licence Informatique - Institut Supérieur de Management *(2023-2026)*
 - 🏅 Certifié **Google Cloud** - Introduction à l'IA Générative *(2025)*
 - 🏅 Certifié **Cisco Networking Academy** - Introduction à l'IA Moderne *(2025)*
-
-<br>
-
-## 📬 Contact
-
-- ✉️ [momardiop0311@gmail.com](mailto:momardiop0311@gmail.com)
-- 📞 WhatsApp : [+221 77 754 20 53](https://wa.me/221777542053)
-- 🌐 Portfolio : https://momar-dev.netlify.app/
-- 📄 CV : https://drive.google.com/file/d/1TUEM2gaTIcQg6xhLg68gQDVralYwO1kO/view?usp=drive_link
 
 <div align="center"><sub><i>Dernière mise à jour : 2026-08-05</i></sub></div>
