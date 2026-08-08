@@ -31,6 +31,30 @@ Développeur orienté produit : je conçois des applications mobiles et web comp
 
 <br>
 
+## 🚀 Wallu — dernier projet livré
+
+Super-app mobile (iOS & Android) développée pour un client, connectant clients et prestataires de services au Sénégal *(Janvier - Août 2026)*.
+
+<p>
+  <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
+
+- 🔐 Authentification sécurisée cross-platform : Apple Sign-In, Google OAuth, gestion avancée des sessions
+- 🤖 Assistant IA intégré capable d'interroger la base de données en temps réel (Google Gemini, Function Calling)
+- 📶 Mode hors connexion avec cache persistant (Offline First)
+- 🎬 Interface hautement animée (60 FPS), multilingue Français / Wolof
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<br>
+
 ## 📌 Projets
 
 Mes meilleurs projets sont épinglés juste en dessous de ce profil. Pour le détail complet (captures, stack, démos live) → **[momar-dev.netlify.app](https://momar-dev.netlify.app)**
@@ -39,8 +63,23 @@ Mes meilleurs projets sont épinglés juste en dessous de ce profil. Pour le dé
 
 ## 🏆 Autres projets notables
 
-- **SAMAKOPPAR Bank** - Application bancaire sécurisée : comptes, tableau de bord, historique des transactions (Spring Boot, React, MySQL, JWT). 🔗 démo sur [momar-dev.netlify.app](https://momar-dev.netlify.app)
-- **Téranga Mode** - E-commerce de mode africaine, paiement mobile intégré Wave / Orange Money (React, Node.js, MongoDB, PayTech API). 🔗 démo sur [momar-dev.netlify.app](https://momar-dev.netlify.app)
+**🏦 SAMAKOPPAR Bank** - Application bancaire sécurisée : comptes, tableau de bord, historique des transactions. 🔗 démo sur [momar-dev.netlify.app](https://momar-dev.netlify.app)
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+**🛍️ Téranga Mode** - E-commerce de mode africaine, paiement mobile intégré Wave / Orange Money. 🔗 démo sur [momar-dev.netlify.app](https://momar-dev.netlify.app)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayTech_API-FF6B00?style=for-the-badge" />
+</p>
 
 <br>
 
@@ -48,7 +87,8 @@ Mes meilleurs projets sont épinglés juste en dessous de ce profil. Pour le dé
 
 - 📱 Apps mobiles full-stack avec UX performante (React Native, Expo)
 - 🤖 Assistants & agents IA intégrés pour support & décisions (OpenAI / Google Gemini)
-- 🔐 Solutions sécurisées : QR éphémères, device fingerprinting, protections anti-fraude
+- 🔐 Solutions sécurisées : QR éphémères, device fingerprinting, OAuth (Apple, Google), protections anti-fraude
+- 📶 Applications offline-first avec cache persistant et synchronisation temps réel
 - ⚙️ APIs scalables : Node.js / Python / Spring Boot, CI/CD & monitoring
 - 🌐 Déploiement & infrastructure : gestion DNS, SSL/HTTPS, hébergement cPanel
 
@@ -144,4 +184,4 @@ Résolution de problèmes · Communication · Travail en équipe · Autonomie
 - 🏅 Certifié **Google Cloud** - Introduction à l'IA Générative *(2025)*
 - 🏅 Certifié **Cisco Networking Academy** - Introduction à l'IA Moderne *(2025)*
 
-<div align="center"><sub><i>Dernière mise à jour : 2026-08-05</i></sub></div>
+<div align="center"><sub><i>Dernière mise à jour : 2026-08-08</i></sub></div>
