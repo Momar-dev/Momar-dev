@@ -10,14 +10,13 @@
 <a href="https://www.linkedin.com/in/momar-diop"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:momardiop0311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/221777542053"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1TUEM2gaTIcQg6xhLg68gQDVralYwO1kO/view?usp=drive_link"><img src="https://img.shields.io/badge/CV-24292F?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Appli_publi%C3%A9e_sur_App_Store_et_Play_Store-2EA043?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Plus_de_10_projets_r%C3%A9alis%C3%A9s-2EA043?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Licence_Informatique_2026-2EA043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Certifi%C3%A9_Google_Cloud_%26_Cisco-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certifi%C3%A9_Azure,_Google_Cloud_%26_Cisco-2EA043?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Disponible_imm%C3%A9diatement-2EA043?style=for-the-badge" />
 
 </div>
@@ -137,9 +136,10 @@ Mes meilleurs projets sont épinglés juste en dessous de ce profil. Pour le dé
   <img src="https://img.shields.io/badge/Chatbots_%26_Agents_IA-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-**🌐 Infrastructure & DNS**
+**🌐 Cloud, Infrastructure & DNS**
 
 <p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
   <img src="https://img.shields.io/badge/DNS_(A,_MX,_CNAME)-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -181,7 +181,8 @@ Résolution de problèmes · Communication · Travail en équipe · Autonomie
 ## 🎓 Formation & Certifications
 
 - 🎓 Licence Informatique - Institut Supérieur de Management *(2023-2026)*
+- 🏅 Certifié **Microsoft Azure** - Intellipaat Academy *(Août 2026, ID: 31679-1786-369570)*
 - 🏅 Certifié **Google Cloud** - Introduction à l'IA Générative *(2025)*
 - 🏅 Certifié **Cisco Networking Academy** - Introduction à l'IA Moderne *(2025)*
 
-<div align="center"><sub><i>Dernière mise à jour : 2026-08-08</i></sub></div>
+<div align="center"><sub><i>Dernière mise à jour : 2026-08-13</i></sub></div>
