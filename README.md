@@ -184,5 +184,6 @@ Résolution de problèmes · Communication · Travail en équipe · Autonomie
 - 🏅 Certifié **Microsoft Azure** - Intellipaat Academy *(Août 2026, ID: 31679-1786-369570)*
 - 🏅 Certifié **Google Cloud** - Introduction à l'IA Générative *(2025)*
 - 🏅 Certifié **Cisco Networking Academy** - Introduction à l'IA Moderne *(2025)*
+- 🏅 Certifié **Git Training** - Simplilearn SkillUp *(Août 2025)*
 
-<div align="center"><sub><i>Dernière mise à jour : 2026-08-13</i></sub></div>
+<div align="center"><sub><i>Dernière mise à jour : 13 août 2026</i></sub></div>
