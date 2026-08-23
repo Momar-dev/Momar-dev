@@ -62,6 +62,17 @@ Mes meilleurs projets sont épinglés juste en dessous de ce profil. Pour le dé
 
 ## 🏆 Autres projets notables
 
+**🕌 DahiraConnect** — Projet du **Hackathon CEZAT 2026** *(Orange Digital Center · Tivaouane, Août 2026)*. Plateforme SaaS de gestion des dahiras sénégalaises : membres, cotisations, paiements Wave & Orange Money et transparence financière. Chaque adhérent suit ses cotisations en temps réel ; le Président, le Trésorier et l'Admin pilotent le dahira via des tableaux de bord dédiés. 🔗 [Code](https://github.com/Momar-dev/DahiraConnect-Projet-HackatonODC-) · [Portfolio](https://momar-dev.netlify.app)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
 **🏦 SAMAKOPPAR Bank** - Application bancaire sécurisée : comptes, tableau de bord, historique des transactions. 🔗 démo sur [momar-dev.netlify.app](https://momar-dev.netlify.app)
 
 <p>
@@ -185,5 +196,6 @@ Résolution de problèmes · Communication · Travail en équipe · Autonomie
 - 🏅 Certifié **Google Cloud** - Introduction à l'IA Générative *(2025)*
 - 🏅 Certifié **Cisco Networking Academy** - Introduction à l'IA Moderne *(2025)*
 - 🏅 Certifié **Git Training** - Simplilearn SkillUp *(Août 2025)*
+- 🏅 Attestation de participation **Hackathon CEZAT 2026** - Orange Digital Center · CEZAT *(Août 2026, Tivaouane)*
 
 <div align="center"><sub><i>Dernière mise à jour : 13 août 2026</i></sub></div>
