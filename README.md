@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Momar DIOP
+# Momar DIOP
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=1A1A2E&right_color=0F3460&style=flat-square)
 
@@ -10,9 +10,9 @@
 
 ---
 
-## 🌟 **Développeur Product-Oriented** | Mobile, Web & AI
+## ⭐ **Développeur Product-Oriented** | Mobile, Web & AI
 
-Je conçois et déploie des applications complètes — du prototype à la production — avec un focus sur l'UX et les solutions innovantes. Dernière réalisation : **Wallu**, une super-app mobile publiée sur App Store & Play Store.
+Je conçois et déploie des applications complètes - du prototype à la production - avec un focus sur l'UX et les solutions innovantes. Dernière réalisation : **Wallu**, une super-app mobile publiée sur App Store & Play Store.
 
 <p align="center" style="margin: 24px 0;">
   <a href="https://momar-dev.netlify.app" target="_blank">
@@ -35,7 +35,7 @@ Je conçois et déploie des applications complètes — du prototype à la produ
 
 <div align="center">
 
-| 📱 | 📦 | 🎓 | ✅ | ⚡ |
+| 📱 | 📦 | 🎓 | ✓ | ⚡ |
 |:---:|:---:|:---:|:---:|:---:|
 | **App Store** & **Play Store** | **10+ Projets** | **Licence Informatique 2026** | **Certifié Azure, Google Cloud, Cisco** | **Disponible immédiatement** |
 
@@ -56,21 +56,21 @@ Une plateforme mobile révolutionnaire connectant clients et prestataires de ser
   <tr>
     <td align="center" width="50%">
       <b>🔐 Sécurité Enterprise</b><br/>
-      <code>Apple Sign-In • Google OAuth<br/>Gestion avancée des sessions</code>
+      <code>Apple Sign-In - Google OAuth<br/>Gestion avancée des sessions</code>
     </td>
     <td align="center" width="50%">
       <b>🤖 IA Intégrée</b><br/>
-      <code>Google Gemini • Function Calling<br/>Requêtes temps réel</code>
+      <code>Google Gemini - Function Calling<br/>Requêtes temps réel</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <b>📶 Mode Hors Ligne</b><br/>
-      <code>Cache Persistant • Sync Offline-First<br/>Données cohérentes</code>
+      <code>Cache Persistant - Sync Offline-First<br/>Données cohérentes</code>
     </td>
     <td align="center" width="50%">
       <b>🎬 Interface Premium</b><br/>
-      <code>60 FPS • Animations fluides<br/>FR / Wolof</code>
+      <code>60 FPS - Animations fluides<br/>FR / Wolof</code>
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ Une plateforme mobile révolutionnaire connectant clients et prestataires de ser
 
 ## 🏆 **Projets Notables**
 
-### 🕌 **DahiraConnect** — Hackathon CEZAT 2026
+### 🕌 **DahiraConnect** - Hackathon CEZAT 2026
 *Août 2026 | Orange Digital Center, Tivaouane*
 
 Plateforme SaaS pour la gestion des dahiras sénégalaises avec cotisations en temps réel, paiements Wave & Orange Money, et tableaux de bord pour présidents, trésoriers et administrateurs.
@@ -104,7 +104,7 @@ Plateforme SaaS pour la gestion des dahiras sénégalaises avec cotisations en t
 
 ---
 
-### 🏦 **SAMAKOPPAR Bank** — Application Bancaire Sécurisée
+### 🏦 **SAMAKOPPAR Bank** - Application Bancaire Sécurisée
 Comptes, tableaux de bord, historique transactionnel avec JWT et authentification avancée.
 
 <div align="center">
@@ -116,7 +116,7 @@ Comptes, tableaux de bord, historique transactionnel avec JWT et authentificatio
 
 ---
 
-### 🛍️ **Téranga Mode** — E-Commerce Mode Africaine
+### 🛍️ **Téranga Mode** - E-Commerce Mode Africaine
 Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 <div align="center">
@@ -228,12 +228,12 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | Diplôme | Organisme | Date | ID |
 |:---:|:---:|:---:|:---:|
-| 🎓 **Licence Informatique** | Institut Supérieur de Management | 2023-2026 | — |
+| 🎓 **Licence Informatique** | Institut Supérieur de Management | 2023-2026 | - |
 | 🏅 **Certifié Microsoft Azure** | Intellipaat Academy | Août 2026 | `31679-1786-369570` |
-| 🏅 **Google Cloud - IA Générative** | Google Cloud Training | 2025 | — |
-| 🏅 **Cisco Networking Academy** | Introduction à l'IA Moderne | 2025 | — |
-| 🏅 **Git Training Certified** | Simplilearn SkillUp | Août 2025 | — |
-| 🏅 **Hackathon CEZAT 2026** | Orange Digital Center, Tivaouane | Août 2026 | — |
+| 🏅 **Google Cloud - IA Générative** | Google Cloud Training | 2025 | - |
+| 🏅 **Cisco Networking Academy** | Introduction à l'IA Moderne | 2025 | - |
+| 🏅 **Git Training Certified** | Simplilearn SkillUp | Août 2025 | - |
+| 🏅 **Hackathon CEZAT 2026** | Orange Digital Center, Tivaouane | Août 2026 | - |
 
 </div>
 
