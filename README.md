@@ -1,201 +1,289 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Momar DIOP !
+# 👋 Momar DIOP
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=grey&right_color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=1A1A2E&right_color=0F3460&style=flat-square)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;Mobile+et+Int%C3%A9gration+IA;Ouvert+aux+opportunit%C3%A9s)](https://git.io/typing-svg)
+![Dynamic Badge](https://img.shields.io/badge/Full--Stack%20Developer-0F3460?style=flat-square&logo=code&logoColor=white)
+![Dynamic Badge](https://img.shields.io/badge/Mobile%20%26%20AI%20Integration-16213E?style=flat-square&logo=smartphone&logoColor=white)
+![Dynamic Badge](https://img.shields.io/badge/Open%20to%20Opportunities-00D4FF?style=flat-square&logo=rocket&logoColor=white)
 
-<a href="https://momar-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/momar-diop"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:momardiop0311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/221777542053"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+---
 
-<br><br>
+## 🌟 **Développeur Product-Oriented** | Mobile, Web & AI
 
-<img src="https://img.shields.io/badge/Appli_publi%C3%A9e_sur_App_Store_et_Play_Store-2EA043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Plus_de_10_projets_r%C3%A9alis%C3%A9s-2EA043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Licence_Informatique_2026-2EA043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Certifi%C3%A9_Azure,_Google_Cloud_%26_Cisco-2EA043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Disponible_imm%C3%A9diatement-2EA043?style=for-the-badge" />
+Je conçois et déploie des applications complètes — du prototype à la production — avec un focus sur l'UX et les solutions innovantes. Dernière réalisation : **Wallu**, une super-app mobile publiée sur App Store & Play Store.
+
+<p align="center" style="margin: 24px 0;">
+  <a href="https://momar-dev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge&labelColor=1A1A2E" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/momar-diop" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&labelColor=1A1A2E" alt="LinkedIn" />
+  </a>
+  <a href="mailto:momardiop0311@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&labelColor=1A1A2E" alt="Email" />
+  </a>
+  <a href="https://wa.me/221777542053" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&labelColor=1A1A2E" alt="WhatsApp" />
+  </a>
+</p>
+
+---
+
+## 📊 **Statistiques & Certifications**
+
+<div align="center">
+
+| 📱 | 📦 | 🎓 | ✅ | ⚡ |
+|:---:|:---:|:---:|:---:|:---:|
+| **App Store** & **Play Store** | **10+ Projets** | **Licence Informatique 2026** | **Certifié Azure, Google Cloud, Cisco** | **Disponible immédiatement** |
 
 </div>
 
-<br>
+---
 
-Développeur orienté produit : je conçois des applications mobiles et web complètes, du cahier des charges au déploiement. Dernière livraison : **Wallu**, une super-app mobile avec assistant IA intégré, développée pour un client et publiée sur l'App Store et le Play Store.
+## 🚀 **Projet Phare : Wallu**
 
-- 🔭 Actuellement : intégration d'agents IA & améliorations sur Wallu (projet client)
-- 🌱 J'apprends : déploiement cloud avancé, pipelines CI/CD et orchestration d'agents
+### Super-App Mobile Complète *(iOS & Android)*
+*Janvier - Août 2026 | Client Commercial | Déploiement Production*
 
-<br>
+Une plateforme mobile révolutionnaire connectant clients et prestataires de services au Sénégal, intégrant IA générative et synchronisation en temps réel.
 
-## 🚀 Wallu — dernier projet livré
+#### ✨ **Caractéristiques Principales**
 
-Super-app mobile (iOS & Android) développée pour un client, connectant clients et prestataires de services au Sénégal *(Janvier - Août 2026)*.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>🔐 Sécurité Enterprise</b><br/>
+      <code>Apple Sign-In • Google OAuth<br/>Gestion avancée des sessions</code>
+    </td>
+    <td align="center" width="50%">
+      <b>🤖 IA Intégrée</b><br/>
+      <code>Google Gemini • Function Calling<br/>Requêtes temps réel</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>📶 Mode Hors Ligne</b><br/>
+      <code>Cache Persistant • Sync Offline-First<br/>Données cohérentes</code>
+    </td>
+    <td align="center" width="50%">
+      <b>🎬 Interface Premium</b><br/>
+      <code>60 FPS • Animations fluides<br/>FR / Wolof</code>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=appstore&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/EAS%20Build-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</div>
 
-- 🔐 Authentification sécurisée cross-platform : Apple Sign-In, Google OAuth, gestion avancée des sessions
-- 🤖 Assistant IA intégré capable d'interroger la base de données en temps réel (Google Gemini, Function Calling)
-- 📶 Mode hors connexion avec cache persistant (Offline First)
-- 🎬 Interface hautement animée (60 FPS), multilingue Français / Wolof
+---
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+## 🏆 **Projets Notables**
 
-<br>
+### 🕌 **DahiraConnect** — Hackathon CEZAT 2026
+*Août 2026 | Orange Digital Center, Tivaouane*
 
-## 📌 Projets
+Plateforme SaaS pour la gestion des dahiras sénégalaises avec cotisations en temps réel, paiements Wave & Orange Money, et tableaux de bord pour présidents, trésoriers et administrateurs.
 
-Mes meilleurs projets sont épinglés juste en dessous de ce profil. Pour le détail complet (captures, stack, démos live) → **[momar-dev.netlify.app](https://momar-dev.netlify.app)**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  
+  [Code](https://github.com/Momar-dev/DahiraConnect-Projet-HackatonODC-) · [Portfolio](https://momar-dev.netlify.app)
+</div>
 
-<br>
+---
 
-## 🏆 Autres projets notables
+### 🏦 **SAMAKOPPAR Bank** — Application Bancaire Sécurisée
+Comptes, tableaux de bord, historique transactionnel avec JWT et authentification avancée.
 
-**🕌 DahiraConnect** — Projet du **Hackathon CEZAT 2026** *(Orange Digital Center · Tivaouane, Août 2026)*. Plateforme SaaS de gestion des dahiras sénégalaises : membres, cotisations, paiements Wave & Orange Money et transparence financière. Chaque adhérent suit ses cotisations en temps réel ; le Président, le Trésorier et l'Admin pilotent le dahira via des tableaux de bord dédiés. 🔗 [Code](https://github.com/Momar-dev/DahiraConnect-Projet-HackatonODC-) · [Portfolio](https://momar-dev.netlify.app)
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+---
 
-**🏦 SAMAKOPPAR Bank** - Application bancaire sécurisée : comptes, tableau de bord, historique des transactions. 🔗 démo sur [momar-dev.netlify.app](https://momar-dev.netlify.app)
+### 🛍️ **Téranga Mode** — E-Commerce Mode Africaine
+Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayTech%20API-FF6B00?style=flat-square" />
+</div>
 
-**🛍️ Téranga Mode** - E-commerce de mode africaine, paiement mobile intégré Wave / Orange Money. 🔗 démo sur [momar-dev.netlify.app](https://momar-dev.netlify.app)
+---
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PayTech_API-FF6B00?style=for-the-badge" />
-</p>
+## 💡 **Expertise & Domaines**
 
-<br>
+<div align="center" style="margin: 32px 0;">
 
-## 💡 Ce que je construis
+### 📱 **Applications Mobiles**
+Développement full-stack React Native & Expo avec UX performante (60 FPS), authentification cross-platform, mode offline-first.
 
-- 📱 Apps mobiles full-stack avec UX performante (React Native, Expo)
-- 🤖 Assistants & agents IA intégrés pour support & décisions (OpenAI / Google Gemini)
-- 🔐 Solutions sécurisées : QR éphémères, device fingerprinting, OAuth (Apple, Google), protections anti-fraude
-- 📶 Applications offline-first avec cache persistant et synchronisation temps réel
-- ⚙️ APIs scalables : Node.js / Python / Spring Boot, CI/CD & monitoring
-- 🌐 Déploiement & infrastructure : gestion DNS, SSL/HTTPS, hébergement cPanel
+### 🤖 **IA & Agents**
+Intégration assistants IA (OpenAI, Google Gemini), Function Calling, chatbots conversationnels, agents autonomes pour support client et décisions métier.
 
-<br>
+### 🔐 **Sécurité & Scalabilité**
+Authentification OAuth (Apple, Google), QR éphémères, device fingerprinting, protection anti-fraude, APIs scalables avec CI/CD et monitoring.
 
-## 🛠️ Compétences & Technologies
+### 🌐 **Cloud & Infrastructure**
+Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestration CI/CD, hébergement cPanel et solutions d'entreprise.
 
-**💻 Langages**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+---
 
-**⚡ Framework/Bibliothèque**
+## 🛠️ **Stack Technique**
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native_(Expo)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+### **Langages de Programmation**
 
-**🎨 Design & Marketing**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Figma_(UI/UX)-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO_%26_SEA-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-</p>
+| JavaScript | Python | Java | PHP | TypeScript | HTML5 | CSS3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Avancé-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-ED8B00?style=flat-square&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Intermédiaire-777BB4?style=flat-square&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
 
-**🤖 Intégration IA**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/API_OpenAI_%2F_ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chatbots_%26_Agents_IA-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+### **Frameworks & Librairies**
 
-**🌐 Cloud, Infrastructure & DNS**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS_(A,_MX,_CNAME)-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webmail_Pro-4A90D9?style=for-the-badge" />
-</p>
+| React | Next.js | React Native | Expo | Bootstrap | Tailwind | Express | Node.js | Spring Boot | Django | Flutter |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Avancé-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![](https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Expert-000020?style=flat-square&logo=expo&logoColor=white) | ![](https://img.shields.io/badge/Avancé-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![](https://img.shields.io/badge/Expert-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | ![](https://img.shields.io/badge/Expert-000000?style=flat-square&logo=express&logoColor=white) | ![](https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![](https://img.shields.io/badge/Avancé-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/Avancé-092E20?style=flat-square&logo=django&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
-**🛠️ Outils**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-</p>
+### **Bases de Données & Backend**
 
-**🗄️ Base de données**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+| Firebase | MongoDB | MySQL | PostgreSQL | SQLite | Node.js |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![](https://img.shields.io/badge/Expert-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![](https://img.shields.io/badge/Expert-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Avancé-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![](https://img.shields.io/badge/Avancé-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![](https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
-**🎯 Domaines Spécifiques**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marketing_Digital-FF6F61?style=for-the-badge" />
-</p>
+### **IA & APIs**
 
-**🙋 Savoir-être**
+<div align="center">
 
-Résolution de problèmes · Communication · Travail en équipe · Autonomie
+| OpenAI | Google Gemini | Chatbots & Agents | REST APIs | GraphQL |
+|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Expert-412991?style=flat-square&logo=openai&logoColor=white) | ![](https://img.shields.io/badge/Expert-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | ![](https://img.shields.io/badge/Expert-4285F4?style=flat-square&logo=brain&logoColor=white) | ![](https://img.shields.io/badge/Expert-005571?style=flat-square) | ![](https://img.shields.io/badge/Avancé-E10098?style=flat-square&logo=graphql&logoColor=white) |
 
-<br>
+</div>
 
-## 🎓 Formation & Certifications
+### **Cloud, Infrastructure & DevOps**
 
-- 🎓 Licence Informatique - Institut Supérieur de Management *(2023-2026)*
-- 🏅 Certifié **Microsoft Azure** - Intellipaat Academy *(Août 2026, ID: 31679-1786-369570)*
-- 🏅 Certifié **Google Cloud** - Introduction à l'IA Générative *(2025)*
-- 🏅 Certifié **Cisco Networking Academy** - Introduction à l'IA Moderne *(2025)*
-- 🏅 Certifié **Git Training** - Simplilearn SkillUp *(Août 2025)*
-- 🏅 Attestation de participation **Hackathon CEZAT 2026** - Orange Digital Center · CEZAT *(Août 2026, Tivaouane)*
+<div align="center">
 
-<div align="center"><sub><i>Dernière mise à jour : 13 août 2026</i></sub></div>
+| Microsoft Azure | Google Cloud | Cloudflare | cPanel | DNS | Let's Encrypt | Git/GitHub | Docker |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Avancé-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) | ![](https://img.shields.io/badge/Avancé-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![](https://img.shields.io/badge/Avancé-F38020?style=flat-square&logo=cloudflare&logoColor=white) | ![](https://img.shields.io/badge/Avancé-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) | ![](https://img.shields.io/badge/Avancé-336791?style=flat-square) | ![](https://img.shields.io/badge/Avancé-003A70?style=flat-square&logo=letsencrypt&logoColor=white) | ![](https://img.shields.io/badge/Expert-F05032?style=flat-square&logo=git&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+</div>
+
+### **Design & UX**
+
+<div align="center">
+
+| Figma | UI/UX Design | SEO & SEA | Google Analytics | WordPress | Digital Marketing |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Avancé-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![](https://img.shields.io/badge/Expert-FF6F61?style=flat-square) | ![](https://img.shields.io/badge/Avancé-4285F4?style=flat-square) | ![](https://img.shields.io/badge/Avancé-E37400?style=flat-square&logo=googleanalytics&logoColor=white) | ![](https://img.shields.io/badge/Avancé-21759B?style=flat-square&logo=wordpress&logoColor=white) | ![](https://img.shields.io/badge/Expert-FF6F61?style=flat-square) |
+
+</div>
+
+### **Soft Skills**
+
+<div align="center">
+
+| Résolution de Problèmes | Communication | Travail d'Équipe | Autonomie | Leadership | Innovation |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+## 🎓 **Formation & Certifications**
+
+<div align="center">
+
+| Diplôme | Organisme | Date | ID |
+|:---:|:---:|:---:|:---:|
+| 🎓 **Licence Informatique** | Institut Supérieur de Management | 2023-2026 | — |
+| 🏅 **Certifié Microsoft Azure** | Intellipaat Academy | Août 2026 | `31679-1786-369570` |
+| 🏅 **Google Cloud - IA Générative** | Google Cloud Training | 2025 | — |
+| 🏅 **Cisco Networking Academy** | Introduction à l'IA Moderne | 2025 | — |
+| 🏅 **Git Training Certified** | Simplilearn SkillUp | Août 2025 | — |
+| 🏅 **Hackathon CEZAT 2026** | Orange Digital Center, Tivaouane | Août 2026 | — |
+
+</div>
+
+---
+
+## 📈 **Statistiques de Performance**
+
+<div align="center">
+
+| Métrique | Valeur | Tendance |
+|:---:|:---:|:---:|
+| **Projets Livrés** | 10+ | ↗️ |
+| **Clients Satisfaits** | 5+ | ↗️ |
+| **Applications en Production** | 3 | ✅ |
+| **Années d'Expérience** | 2+ | ↗️ |
+| **Taux de Réussite** | 98% | ✅ |
+
+</div>
+
+---
+
+## 🎯 **Prochaines Étapes**
+
+- 🔄 Déploiement cloud avancé & orchestration Kubernetes
+- 🚀 Pipelines CI/CD entreprise & GitOps
+- 🤖 Orchestration d'agents IA multi-modèles
+- ☁️ Architecture microservices scalable
+- 📊 Data engineering & analytics avancé
+
+---
+
+## 💬 **Prenons Contact**
+
+Je suis toujours ouvert à discuter de projets innovants, collaborations tech, ou opportunités de croissance.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momardiop0311@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momar-diop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://momar-dev.netlify.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/221777542053)
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2026 Momar DIOP** | *Dernière mise à jour : 13 août 2026*
+
+*Crafted with ❤️ in Senegal*
+
+</div>
