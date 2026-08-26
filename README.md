@@ -1,6 +1,6 @@
 <div align="center">
 
-# Momar DIOP
+# 👋 Momar DIOP
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=1A1A2E&right_color=0F3460&style=flat-square)
 
@@ -31,11 +31,11 @@ Je conçois et déploie des applications complètes - du prototype à la product
 
 ---
 
-## 📊 **Statistiques & Certifications** *(Original)*
+## 📊 **Statistiques & Certifications**
 
 <div align="center">
 
-| 📱 | 📦 | 🎓 | ✓ | ⚡ |
+| 📱 | 📦 | 🎓 | ✅ | ⚡ |
 |:---:|:---:|:---:|:---:|:---:|
 | **App Store** & **Play Store** | **10+ Projets** | **Licence Informatique 2026** | **Certifié Azure, Google Cloud, Cisco** | **Disponible immédiatement** |
 
@@ -70,12 +70,12 @@ Projets Livrés          Applications Production    Taux de Satisfaction
 
 ---
 
-## 🌟 **Projets Phares** *(NOUVEAU - Enhanced)*
+## 🚀 **Projet Phare : Wallu**
 
-### 🏆 **WALLU** - Super-App Mobile Révolutionnaire
-**Janvier - Août 2026 | Client Commercial | Production Live**
+### Super-App Mobile Complète *(iOS & Android)*
+*Janvier - Août 2026 | Client Commercial | Déploiement Production*
 
-Plateforme mobile complète connectant clients et prestataires au Sénégal avec IA générative temps réel.
+Une plateforme mobile révolutionnaire connectant clients et prestataires de services au Sénégal, intégrant IA générative et synchronisation en temps réel.
 
 <div align="center">
 
@@ -86,14 +86,6 @@ Plateforme mobile complète connectant clients et prestataires au Sénégal avec
 - ✅ Score Lighthouse: 94/100
 - ✅ Retention utilisateurs: +45%
 
-**🛠️ Stack Technique:**
-
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![EAS Build](https://img.shields.io/badge/EAS%20Build-000020?style=flat-square&logo=expo&logoColor=white)
-
 </div>
 
 #### ✨ **Caractéristiques Principales**
@@ -102,31 +94,39 @@ Plateforme mobile complète connectant clients et prestataires au Sénégal avec
   <tr>
     <td align="center" width="50%">
       <b>🔐 Sécurité Enterprise</b><br/>
-      <code>Apple Sign-In - Google OAuth<br/>Gestion avancée des sessions</code>
+      <code>Apple Sign-In • Google OAuth<br/>Gestion avancée des sessions</code>
     </td>
     <td align="center" width="50%">
       <b>🤖 IA Intégrée</b><br/>
-      <code>Google Gemini - Function Calling<br/>Requêtes temps réel</code>
+      <code>Google Gemini • Function Calling<br/>Requêtes temps réel</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <b>📶 Mode Hors Ligne</b><br/>
-      <code>Cache Persistant - Sync Offline-First<br/>Données cohérentes</code>
+      <code>Cache Persistant • Sync Offline-First<br/>Données cohérentes</code>
     </td>
     <td align="center" width="50%">
       <b>🎬 Interface Premium</b><br/>
-      <code>60 FPS - Animations fluides<br/>FR / Wolof</code>
+      <code>60 FPS • Animations fluides<br/>FR / Wolof</code>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/EAS%20Build-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</div>
+
 ---
 
-## 🏆 **Projets Notables** *(Original)*
+## 🏆 **Projets Notables**
 
 ### 🕌 **DahiraConnect** - Hackathon CEZAT 2026
-*Août 2026 | Orange Digital Center, Tivaouane | 1ère Place 🥇*
+*Août 2026 | Orange Digital Center, Tivaouane*
 
 Plateforme SaaS pour la gestion des dahiras sénégalaises avec cotisations en temps réel, paiements Wave & Orange Money, et tableaux de bord pour présidents, trésoriers et administrateurs.
 
@@ -192,7 +192,7 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 ├─── Q1-Q3: Wallu Super-App Development
 │    └─ App Store + Play Store Launch ✅
 │
-├─── Q3: Hackathon CEZAT - 1ère Place 🥇
+├─── Q3: Hackathon CEZAT - Participation
 │    └─ DahiraConnect présenté
 │
 └─── Présent: Recherche opportunités sénior
@@ -244,7 +244,7 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 ---
 
-## 💡 **Expertise & Domaines** *(Original)*
+## 💡 **Expertise & Domaines**
 
 <div align="center" style="margin: 32px 0;">
 
@@ -264,7 +264,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 ---
 
-## 🛠️ **Stack Technique** *(COMPLET - Original)*
+## 🛠️ **Stack Technique**
 
 ### **Langages de Programmation**
 
@@ -326,9 +326,19 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 </div>
 
+### **Soft Skills**
+
+<div align="center">
+
+| Résolution de Problèmes | Communication | Travail d'Équipe | Autonomie | Leadership | Innovation |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
+</div>
+
 ---
 
-## 🎓 **Formation & Certifications** *(Original)*
+## 🎓 **Formation & Certifications**
 
 <div align="center">
 
@@ -359,7 +369,7 @@ Streak: 42 jours consécutifs 🔥
 
 ### Derniers Projets:
 - **WALLU Super-App** (Production Live)
-- **DahiraConnect SaaS** (Hackathon Winner 🥇)
+- **DahiraConnect SaaS** (Hackathon Participation)
 - **Portfolio Site Redesign** (Next.js)
 - **IA Agents Integration** (OpenAI + Gemini)
 
@@ -378,20 +388,6 @@ Streak: 42 jours consécutifs 🔥
 | Orchestration Kubernetes | Microservices avancés | Data Engineering |
 | Advanced CI/CD pipelines | Multi-model AI Agents | Analytics Platform |
 | Performance Optimization | Event-driven Architecture | Scalable SaaS |
-
-</div>
-
----
-
-## 📬 **Soft Skills** *(Original)*
-
-<div align="center">
-
-| Résolution de Problèmes | Communication | Travail d'Équipe | Autonomie | Leadership | Innovation |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-
-**Spécialités:** Product Thinking · UX Focus · Problem Solving · Team Leadership · Scalable Architecture
 
 </div>
 
