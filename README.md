@@ -29,6 +29,18 @@ Je conçois et déploie des applications complètes - du prototype à la product
   </a>
 </p>
 
+</div>
+
+---
+
+## 🧰 **Tech Stack en un coup d'œil**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,sass,tailwind,bootstrap,nodejs,express,nestjs,laravel,django,spring,dotnet,cs,php,py,java,go,ruby,graphql,mongodb,mysql,postgres,sqlite,firebase,docker,kubernetes,azure,gcp,cloudflare,git,github,figma,flutter,androidstudio,wordpress,vscode&perline=14" alt="Tech Stack" />
+
+</div>
+
 ---
 
 ## 📊 **Statistiques & Certifications**
@@ -235,10 +247,9 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 <div align="center">
 
-| Backend | DevOps | Mobile | Other |
-|:---:|:---:|:---:|:---:|
-| PHP | Docker | Flutter | WordPress |
-| Python | Kubernetes | Java | Digital Marketing |
+| Backend | Bases de Données | DevOps | Mobile | Autres |
+|:---:|:---:|:---:|:---:|:---:|
+| PHP<br/>Python<br/>Laravel<br/>NestJS<br/>Go<br/>Ruby<br/>C# → .NET → ASP.NET Core → Entity Framework Core | SQL Server | Docker<br/>Kubernetes | Flutter<br/>Java | WordPress<br/>Digital Marketing |
 
 </div>
 
@@ -270,9 +281,9 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 <div align="center">
 
-| JavaScript | Python | Java | PHP | TypeScript | HTML5 | CSS3 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Avancé-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-ED8B00?style=flat-square&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Intermédiaire-777BB4?style=flat-square&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| JavaScript | Python | Java | PHP | TypeScript | HTML5 | CSS3 | Go | Ruby | C# |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Avancé-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-ED8B00?style=flat-square&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Intermédiaire-777BB4?style=flat-square&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Intermédiaire-00ADD8?style=flat-square&logo=go&logoColor=white" /> | <img src="https://img.shields.io/badge/Intermédiaire-CC342D?style=flat-square&logo=ruby&logoColor=white" /> | <img src="https://img.shields.io/badge/Intermédiaire-239120?style=flat-square&logo=csharp&logoColor=white" /> |
 
 </div>
 
@@ -280,9 +291,9 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 <div align="center">
 
-| React | Next.js | React Native | Expo | Bootstrap | Tailwind | Express | Node.js | Spring Boot | Django | Flutter |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Avancé-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![](https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Expert-000020?style=flat-square&logo=expo&logoColor=white) | ![](https://img.shields.io/badge/Avancé-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![](https://img.shields.io/badge/Expert-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | ![](https://img.shields.io/badge/Expert-000000?style=flat-square&logo=express&logoColor=white) | ![](https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![](https://img.shields.io/badge/Avancé-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/Avancé-092E20?style=flat-square&logo=django&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| React | Next.js | React Native | Expo | Bootstrap | Tailwind | Express | Node.js | Spring Boot | Django | Flutter | Laravel | NestJS | ASP.NET Core |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Avancé-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![](https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Expert-000020?style=flat-square&logo=expo&logoColor=white) | ![](https://img.shields.io/badge/Avancé-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![](https://img.shields.io/badge/Expert-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | ![](https://img.shields.io/badge/Expert-000000?style=flat-square&logo=express&logoColor=white) | ![](https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![](https://img.shields.io/badge/Avancé-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/Avancé-092E20?style=flat-square&logo=django&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-02569B?style=flat-square&logo=flutter&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 
 </div>
 
@@ -290,9 +301,9 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 <div align="center">
 
-| Firebase | MongoDB | MySQL | PostgreSQL | SQLite | Node.js |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![](https://img.shields.io/badge/Expert-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![](https://img.shields.io/badge/Expert-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Avancé-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![](https://img.shields.io/badge/Avancé-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![](https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| Firebase | MongoDB | MySQL | PostgreSQL | SQLite | SQL Server | Node.js |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![](https://img.shields.io/badge/Expert-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![](https://img.shields.io/badge/Expert-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Avancé-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![](https://img.shields.io/badge/Avancé-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![](https://img.shields.io/badge/Intermédiaire-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ![](https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 </div>
 
@@ -300,9 +311,9 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 <div align="center">
 
-| OpenAI | Google Gemini | Chatbots & Agents | REST APIs | GraphQL |
-|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Expert-412991?style=flat-square&logo=openai&logoColor=white) | ![](https://img.shields.io/badge/Expert-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | ![](https://img.shields.io/badge/Expert-4285F4?style=flat-square&logo=brain&logoColor=white) | ![](https://img.shields.io/badge/Expert-005571?style=flat-square) | ![](https://img.shields.io/badge/Avancé-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| OpenAI | Google Gemini | Chatbots & Agents | REST APIs | GraphQL | JSON |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Expert-412991?style=flat-square&logo=openai&logoColor=white) | ![](https://img.shields.io/badge/Expert-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | ![](https://img.shields.io/badge/Expert-4285F4?style=flat-square&logo=brain&logoColor=white) | ![](https://img.shields.io/badge/Expert-005571?style=flat-square) | ![](https://img.shields.io/badge/Avancé-E10098?style=flat-square&logo=graphql&logoColor=white) | ![](https://img.shields.io/badge/Expert-000000?style=flat-square&logo=json&logoColor=white) |
 
 </div>
 
@@ -412,7 +423,7 @@ Je suis toujours ouvert à discuter de projets innovants, collaborations tech, o
 
 <div align="center">
 
-**© 2026 Momar DIOP** | *Dernière mise à jour : 13 août 2026*
+**© 2026 Momar DIOP** | *Dernière mise à jour : 26 septembre 2026*
 
 *Crafted with ❤️ in Senegal*
 
