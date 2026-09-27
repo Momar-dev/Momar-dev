@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Momar DIOP
+# <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%2300D4FF" width="32" height="32" style="vertical-align:-6px;" /> Momar DIOP
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=1A1A2E&right_color=0F3460&style=flat-square)
 
@@ -10,22 +10,22 @@
 
 ---
 
-## ⭐ **Développeur Product-Oriented** | Mobile, Web & AI
+## <img src="https://api.iconify.design/mdi:star.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Développeur Product-Oriented** | Mobile, Web & AI
 
 Je conçois et déploie des applications complètes - du prototype à la production - avec un focus sur l'UX et les solutions innovantes. Dernière réalisation : **Wallu**, une super-app mobile publiée sur App Store & Play Store.
 
 <p align="center" style="margin: 24px 0;">
   <a href="https://momar-dev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge&labelColor=1A1A2E" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1A2E" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/momar-diop" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&labelColor=1A1A2E" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" alt="LinkedIn" />
   </a>
   <a href="mailto:momardiop0311@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&labelColor=1A1A2E" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" alt="Email" />
   </a>
   <a href="https://wa.me/221777542053" target="_blank">
-    <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&labelColor=1A1A2E" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1A2E" alt="WhatsApp" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Je conçois et déploie des applications complètes - du prototype à la product
 
 ---
 
-## 🧰 **Tech Stack en un coup d'œil**
+## <img src="https://api.iconify.design/mdi:view-grid-outline.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Tech Stack en un coup d'œil**
 
 <div align="center">
 
@@ -43,11 +43,11 @@ Je conçois et déploie des applications complètes - du prototype à la product
 
 ---
 
-## 📊 **Statistiques & Certifications**
+## <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Statistiques & Certifications**
 
 <div align="center">
 
-| 📱 | 📦 | 🎓 | ✅ | ⚡ |
+| <img src="https://api.iconify.design/mdi:cellphone.svg?color=%2300D4FF" width="22" height="22"/> | <img src="https://api.iconify.design/mdi:package-variant-closed.svg?color=%2300D4FF" width="22" height="22"/> | <img src="https://api.iconify.design/mdi:school-outline.svg?color=%2300D4FF" width="22" height="22"/> | <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="22" height="22"/> | <img src="https://api.iconify.design/mdi:flash-outline.svg?color=%2300D4FF" width="22" height="22"/> |
 |:---:|:---:|:---:|:---:|:---:|
 | **App Store** & **Play Store** | **10+ Projets** | **Licence Informatique 2026** | **Certifié Azure, Google Cloud, Cisco** | **Disponible immédiatement** |
 
@@ -55,34 +55,56 @@ Je conçois et déploie des applications complètes - du prototype à la product
 
 ---
 
-## 📈 **Statistiques de Performance - Données Réelles** *(NOUVEAU)*
+## <img src="https://api.iconify.design/mdi:chart-line.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Statistiques de Performance - Données Réelles** *(NOUVEAU)*
 
 <div align="center">
 
 ### Métriques Clés
 
-| 🎯 Métrique | 📊 Valeur | 💯 Performance |
+| <img src="https://api.iconify.design/mdi:target.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Métrique | <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Valeur | <img src="https://api.iconify.design/mdi:trophy-outline.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Performance |
 |:---:|:---:|:---:|
-| **Projets Livrés** | 10+ | ↗️ 100% à temps |
-| **Clients Satisfaits** | 5+ | ⭐ 4.9/5.0 |
-| **Taux de Réussite** | 98% | ✅ Exceptionnel |
-| **Code Quality** | 94% | ✅ Tests couverts |
-| **Uptime Production** | 99.7% | 🚀 Enterprise-grade |
-| **Temps Déploiement** | 2-4h | ⚡ Full CI/CD |
+| **Projets Livrés** | 10+ | <img src="https://api.iconify.design/mdi:trending-up.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> 100% à temps |
+| **Clients Satisfaits** | 5+ | <img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="16" height="16" style="vertical-align:-3px;"/> 4.9/5.0 |
+| **Taux de Réussite** | 98% | <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> Exceptionnel |
+| **Code Quality** | 94% | <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> Tests couverts |
+| **Uptime Production** | 99.7% | <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> Enterprise-grade |
+| **Temps Déploiement** | 2-4h | <img src="https://api.iconify.design/mdi:flash-outline.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> Full CI/CD |
 
 ### Progression Visuelle
 
-```
-Projets Livrés          Applications Production    Taux de Satisfaction
-       10+                         3                      98%
-    ████████████░░░░░░             █████████░░           ███████████░
-```
+<table align="center">
+<tr>
+<td align="center">
+<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="65" cy="65" r="54" fill="#0F3460"/>
+  <text x="65" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF">10+</text>
+  <text x="65" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9FB3D6">Projets Livrés</text>
+</svg>
+</td>
+<td align="center">
+<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="65" cy="65" r="54" fill="#0F3460"/>
+  <text x="65" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF">3</text>
+  <text x="65" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9FB3D6">Apps en Production</text>
+</svg>
+</td>
+<td align="center">
+<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="65" cy="65" r="48" fill="#EEF2F7"/>
+  <circle cx="65" cy="65" r="54" fill="none" stroke="#E2E8F0" stroke-width="8"/>
+  <circle cx="65" cy="65" r="54" fill="none" stroke="#00D4FF" stroke-width="8" stroke-linecap="round" stroke-dasharray="339.29" stroke-dashoffset="6.79" transform="rotate(-90 65 65)"/>
+  <text x="65" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0F3460">98%</text>
+  <text x="65" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">Satisfaction</text>
+</svg>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 **Projet Phare : Wallu**
+## <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Projet Phare : Wallu**
 
 ### Super-App Mobile Complète *(iOS & Android)*
 *Janvier - Août 2026 | Client Commercial | Déploiement Production*
@@ -91,35 +113,35 @@ Une plateforme mobile révolutionnaire connectant clients et prestataires de ser
 
 <div align="center">
 
-**🎯 Résultats Commerciaux:**
-- ✅ Déploiement simultané iOS & Android (App Store + Play Store)
-- ✅ +500 utilisateurs première semaine
-- ✅ Latence < 200ms (AI requests)
-- ✅ Score Lighthouse: 94/100
-- ✅ Retention utilisateurs: +45%
+**<img src="https://api.iconify.design/mdi:target.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Résultats Commerciaux:**
+- <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> Déploiement simultané iOS & Android (App Store + Play Store)
+- <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> +500 utilisateurs première semaine
+- <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> Latence < 200ms (AI requests)
+- <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> Score Lighthouse: 94/100
+- <img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> Retention utilisateurs: +45%
 
 </div>
 
-#### ✨ **Caractéristiques Principales**
+#### <img src="https://api.iconify.design/mdi:creation.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **Caractéristiques Principales**
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <b>🔐 Sécurité Enterprise</b><br/>
+      <b><img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Sécurité Enterprise</b><br/>
       <code>Apple Sign-In • Google OAuth<br/>Gestion avancée des sessions</code>
     </td>
     <td align="center" width="50%">
-      <b>🤖 IA Intégrée</b><br/>
+      <b><img src="https://api.iconify.design/mdi:robot-outline.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> IA Intégrée</b><br/>
       <code>Google Gemini • Function Calling<br/>Requêtes temps réel</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <b>📶 Mode Hors Ligne</b><br/>
+      <b><img src="https://api.iconify.design/mdi:cloud-off-outline.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Mode Hors Ligne</b><br/>
       <code>Cache Persistant • Sync Offline-First<br/>Données cohérentes</code>
     </td>
     <td align="center" width="50%">
-      <b>🎬 Interface Premium</b><br/>
+      <b><img src="https://api.iconify.design/mdi:movie-open-outline.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Interface Premium</b><br/>
       <code>60 FPS • Animations fluides<br/>FR / Wolof</code>
     </td>
   </tr>
@@ -135,9 +157,9 @@ Une plateforme mobile révolutionnaire connectant clients et prestataires de ser
 
 ---
 
-## 🏆 **Projets Notables**
+## <img src="https://api.iconify.design/mdi:trophy-outline.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Projets Notables**
 
-### 🕌 **DahiraConnect** - Hackathon CEZAT 2026
+### <img src="https://api.iconify.design/mdi:account-group-outline.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **DahiraConnect** - Hackathon CEZAT 2026
 *Août 2026 | Orange Digital Center, Tivaouane*
 
 Plateforme SaaS pour la gestion des dahiras sénégalaises avec cotisations en temps réel, paiements Wave & Orange Money, et tableaux de bord pour présidents, trésoriers et administrateurs.
@@ -154,7 +176,7 @@ Plateforme SaaS pour la gestion des dahiras sénégalaises avec cotisations en t
 
 ---
 
-### 🏦 **SAMAKOPPAR Bank** - Application Bancaire Sécurisée
+### <img src="https://api.iconify.design/mdi:bank-outline.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **SAMAKOPPAR Bank** - Application Bancaire Sécurisée
 Comptes, tableaux de bord, historique transactionnel avec JWT et authentification avancée.
 
 <div align="center">
@@ -166,7 +188,7 @@ Comptes, tableaux de bord, historique transactionnel avec JWT et authentificatio
 
 ---
 
-### 🛍️ **Téranga Mode** - E-Commerce Mode Africaine
+### <img src="https://api.iconify.design/mdi:storefront-outline.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **Téranga Mode** - E-Commerce Mode Africaine
 Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 <div align="center">
@@ -178,46 +200,38 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 ---
 
-## 📅 **Timeline - Journey & Milestones** *(NOUVEAU)*
+## <img src="https://api.iconify.design/mdi:calendar-month-outline.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Timeline - Journey & Milestones** *(NOUVEAU)*
 
-<div align="center">
-
-```
-2024
-│
-├─── Q1: Premiers projets Web (React, Node.js)
-│    └─ 3 applications livrées
-│
-├─── Q3: Spécialisation Mobile (React Native)
-│    └─ Certification Azure completée
-│
-2025
-│
-├─── Q1: Intégration IA (OpenAI, Gemini)
-│    └─ Agents autonomes en production
-│
-├─── Q3: Google Cloud Certification
-│    └─ Formation IA Générative validée
-│
-2026
-│
-├─── Q1-Q3: Wallu Super-App Development
-│    └─ App Store + Play Store Launch ✅
-│
-├─── Q3: Hackathon CEZAT - Participation
-│    └─ DahiraConnect présenté
-│
-└─── Présent: Recherche opportunités sénior
-     └─ Disponible immédiatement
-```
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="12%"><b>2024</b></td>
+<td>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1</b> — Premiers projets Web (React, Node.js) : 3 applications livrées<br/>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> — Spécialisation Mobile (React Native) : Certification Azure complétée
+</td>
+</tr>
+<tr>
+<td align="center"><b>2025</b></td>
+<td>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1</b> — Intégration IA (OpenAI, Gemini) : Agents autonomes en production<br/>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> — Google Cloud Certification : Formation IA Générative validée
+</td>
+</tr>
+<tr>
+<td align="center"><b>2026</b></td>
+<td>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1-Q3</b> — Wallu Super-App Development : App Store + Play Store Launch<br/>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> — Hackathon CEZAT : DahiraConnect présenté<br/>
+<img src="https://api.iconify.design/mdi:clock-outline.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> <b>Présent</b> — Recherche opportunités sénior : disponible immédiatement
+</td>
+</tr>
+</table>
 
 ---
 
-## 💪 **Compétences par Niveau** *(NOUVEAU)*
+## <img src="https://api.iconify.design/mdi:gauge.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Compétences par Niveau** *(NOUVEAU)*
 
-### 🟢 **EXPERT** *(Maîtrise Complète)*
+### <svg width="16" height="16" style="vertical-align:-3px;" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7" fill="#22C55E"/></svg> **EXPERT** *(Maîtrise Complète)*
 
 <div align="center">
 
@@ -230,7 +244,7 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 </div>
 
-### 🟡 **AVANCÉ** *(Production Ready)*
+### <svg width="16" height="16" style="vertical-align:-3px;" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7" fill="#F59E0B"/></svg> **AVANCÉ** *(Production Ready)*
 
 <div align="center">
 
@@ -243,7 +257,7 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 </div>
 
-### 🔵 **INTERMÉDIAIRE** *(En Progression)*
+### <svg width="16" height="16" style="vertical-align:-3px;" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7" fill="#3B82F6"/></svg> **INTERMÉDIAIRE** *(En Progression)*
 
 <div align="center">
 
@@ -255,27 +269,27 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 ---
 
-## 💡 **Expertise & Domaines**
+## <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Expertise & Domaines**
 
 <div align="center" style="margin: 32px 0;">
 
-### 📱 **Applications Mobiles**
+### <img src="https://api.iconify.design/mdi:cellphone.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **Applications Mobiles**
 Développement full-stack React Native & Expo avec UX performante (60 FPS), authentification cross-platform, mode offline-first.
 
-### 🤖 **IA & Agents**
+### <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **IA & Agents**
 Intégration assistants IA (OpenAI, Google Gemini), Function Calling, chatbots conversationnels, agents autonomes pour support client et décisions métier.
 
-### 🔐 **Sécurité & Scalabilité**
+### <img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **Sécurité & Scalabilité**
 Authentification OAuth (Apple, Google), QR éphémères, device fingerprinting, protection anti-fraude, APIs scalables avec CI/CD et monitoring.
 
-### 🌐 **Cloud & Infrastructure**
+### <img src="https://api.iconify.design/mdi:cloud-outline.svg?color=%2300D4FF" width="20" height="20" style="vertical-align:-3px;" /> **Cloud & Infrastructure**
 Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestration CI/CD, hébergement cPanel et solutions d'entreprise.
 
 </div>
 
 ---
 
-## 🛠️ **Stack Technique**
+## <img src="https://api.iconify.design/mdi:toolbox-outline.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Stack Technique**
 
 ### **Langages de Programmation**
 
@@ -343,40 +357,55 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | Résolution de Problèmes | Communication | Travail d'Équipe | Autonomie | Leadership | Innovation |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| <img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/> | <img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/> | <img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/> | <img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/> | <img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/> | <img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/><img src="https://api.iconify.design/mdi:star.svg?color=%23FFC107" width="14" height="14"/> |
 
 </div>
 
 ---
 
-## 🎓 **Formation & Certifications**
+## <img src="https://api.iconify.design/mdi:school-outline.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Formation & Certifications**
 
 <div align="center">
 
 | Diplôme | Organisme | Date | ID |
 |:---:|:---:|:---:|:---:|
-| 🎓 **Licence Informatique** | Institut Supérieur de Management | 2023-2026 | - |
-| 🏅 **Certifié Microsoft Azure** | Intellipaat Academy | Août 2026 | `31679-1786-369570` |
-| 🏅 **Google Cloud - IA Générative** | Google Cloud Training | 2025 | - |
-| 🏅 **Cisco Networking Academy** | Introduction à l'IA Moderne | 2025 | - |
-| 🏅 **Git Training Certified** | Simplilearn SkillUp | Août 2025 | - |
-| 🏅 **Hackathon CEZAT 2026** | Orange Digital Center, Tivaouane | Août 2026 | - |
+| <img src="https://api.iconify.design/mdi:school-outline.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> **Licence Informatique** | Institut Supérieur de Management | 2023-2026 | - |
+| <img src="https://api.iconify.design/mdi:certificate.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> **Certifié Microsoft Azure** | Intellipaat Academy | Août 2026 | `31679-1786-369570` |
+| <img src="https://api.iconify.design/mdi:certificate.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> **Google Cloud - IA Générative** | Google Cloud Training | 2025 | - |
+| <img src="https://api.iconify.design/mdi:certificate.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> **Cisco Networking Academy** | Introduction à l'IA Moderne | 2025 | - |
+| <img src="https://api.iconify.design/mdi:certificate.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> **Git Training Certified** | Simplilearn SkillUp | Août 2025 | - |
+| <img src="https://api.iconify.design/mdi:certificate.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> **Hackathon CEZAT 2026** | Orange Digital Center, Tivaouane | Août 2026 | - |
 
 </div>
 
 ---
 
-## 🔥 **GitHub Contributions** *(NOUVEAU)*
+## <img src="https://api.iconify.design/mdi:fire.svg?color=%23FF6B35" width="24" height="24" style="vertical-align:-4px;" /> **GitHub Contributions** *(NOUVEAU)*
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
+<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="65" cy="65" r="54" fill="#0F3460"/>
+  <text x="65" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">487</text>
+  <text x="65" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9FB3D6">Contributions 2026</text>
+</svg>
+</td>
+<td align="center">
+<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="65" cy="65" r="48" fill="#EEF2F7"/>
+  <circle cx="65" cy="65" r="54" fill="none" stroke="#E2E8F0" stroke-width="8"/>
+  <circle cx="65" cy="65" r="54" fill="none" stroke="#00D4FF" stroke-width="8" stroke-linecap="round" stroke-dasharray="339.29" stroke-dashoffset="74.64" transform="rotate(-90 65 65)"/>
+  <text x="65" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0F3460">78%</text>
+  <text x="65" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">Progression</text>
+</svg>
+</td>
+</tr>
+</table>
 
-```
-Contributions cette année: 487
-                          
-████████████████░░░░░░░░░ 78%
-                          
-Streak: 42 jours consécutifs 🔥
-```
+<p align="center">
+<img src="https://api.iconify.design/mdi:fire.svg?color=%23FF6B35" width="18" height="18" style="vertical-align:-3px;" /> <b>Streak actuel : 42 jours consécutifs</b>
+</p>
 
 ### Derniers Projets:
 - **WALLU Super-App** (Production Live)
@@ -384,17 +413,19 @@ Streak: 42 jours consécutifs 🔥
 - **Portfolio Site Redesign** (Next.js)
 - **IA Agents Integration** (OpenAI + Gemini)
 
-![Profile views](https://komarev.com/ghpvc/?username=Momar-dev&style=flat-square&color=blue)
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Momar-dev&style=flat-square&color=00D4FF)
 
 </div>
 
 ---
 
-## 🎯 **Prochaines Étapes** *(NOUVEAU - Structuré)*
+## <img src="https://api.iconify.design/mdi:target.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Prochaines Étapes** *(NOUVEAU - Structuré)*
 
 <div align="center">
 
-| 🔄 Court terme (1-2 mois) | 🚀 Moyen terme (3-6 mois) | 📊 Long terme (6-12 mois) |
+| <img src="https://api.iconify.design/mdi:refresh.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Court terme (1-2 mois) | <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Moyen terme (3-6 mois) | <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%2300D4FF" width="18" height="18" style="vertical-align:-3px;"/> Long terme (6-12 mois) |
 |:---:|:---:|:---:|
 | Orchestration Kubernetes | Microservices avancés | Data Engineering |
 | Advanced CI/CD pipelines | Multi-model AI Agents | Analytics Platform |
@@ -404,7 +435,7 @@ Streak: 42 jours consécutifs 🔥
 
 ---
 
-## 💬 **Prenons Contact**
+## <img src="https://api.iconify.design/mdi:chat-outline.svg?color=%2300D4FF" width="24" height="24" style="vertical-align:-4px;" /> **Prenons Contact**
 
 Je suis toujours ouvert à discuter de projets innovants, collaborations tech, ou opportunités de croissance.
 
@@ -415,7 +446,7 @@ Je suis toujours ouvert à discuter de projets innovants, collaborations tech, o
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://momar-dev.netlify.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/221777542053)
 
-**Response time:** < 2 heures | **Disponibilité:** Immédiate
+**Temps de réponse :** < 2 heures | **Disponibilité :** Immédiate
 
 </div>
 
@@ -425,6 +456,6 @@ Je suis toujours ouvert à discuter de projets innovants, collaborations tech, o
 
 **© 2026 Momar DIOP** | *Dernière mise à jour : 26 septembre 2026*
 
-*Crafted with ❤️ in Senegal*
+*Crafted with <img src="https://api.iconify.design/mdi:heart.svg?color=%23E63946" width="16" height="16" style="vertical-align:-3px;" /> in Senegal*
 
 </div>
