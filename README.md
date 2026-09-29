@@ -384,12 +384,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momar-dev&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF" height="165" alt="Langages les plus utilisés"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Momar-dev&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" height="165" alt="Statistiques GitHub"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momar-dev&hide_border=true&background=1A1A2E&stroke=0F3460&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3D6" alt="Streak GitHub"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Momar-dev&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 </div>
 
