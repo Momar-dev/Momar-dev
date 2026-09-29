@@ -206,23 +206,23 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 <tr>
 <td align="center" width="12%"><b>2024</b></td>
 <td>
-<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1</b> — Premiers projets Web (React, Node.js) : 3 applications livrées<br/>
-<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> — Spécialisation Mobile (React Native) : Certification Azure complétée
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1</b> : Premiers projets Web (React, Node.js), 3 applications livrées<br/>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> : Spécialisation Mobile (React Native), Certification Azure complétée
 </td>
 </tr>
 <tr>
 <td align="center"><b>2025</b></td>
 <td>
-<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1</b> — Intégration IA (OpenAI, Gemini) : Agents autonomes en production<br/>
-<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> — Google Cloud Certification : Formation IA Générative validée
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1</b> : Intégration IA (OpenAI, Gemini), Agents autonomes en production<br/>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> : Google Cloud Certification, Formation IA Générative validée
 </td>
 </tr>
 <tr>
 <td align="center"><b>2026</b></td>
 <td>
-<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1-Q3</b> — Wallu Super-App Development : App Store + Play Store Launch<br/>
-<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> — Hackathon CEZAT : DahiraConnect présenté<br/>
-<img src="https://api.iconify.design/mdi:clock-outline.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> <b>Présent</b> — Recherche opportunités sénior : disponible immédiatement
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q1-Q3</b> : Wallu Super-App Development, App Store + Play Store Launch<br/>
+<img src="https://api.iconify.design/mdi:check-circle-outline.svg?color=%2316C79A" width="16" height="16" style="vertical-align:-3px;"/> <b>Q3</b> : Hackathon CEZAT, DahiraConnect présenté<br/>
+<img src="https://api.iconify.design/mdi:clock-outline.svg?color=%2300D4FF" width="16" height="16" style="vertical-align:-3px;"/> <b>Présent</b> : Recherche opportunités sénior, disponible immédiatement
 </td>
 </tr>
 </table>
@@ -382,42 +382,22 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 ## <img src="https://api.iconify.design/mdi:fire.svg?color=%23FF6B35" width="24" height="24" style="vertical-align:-4px;" /> **GitHub Contributions** *(NOUVEAU)*
 
-<table align="center">
-<tr>
-<td align="center">
-<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="65" cy="65" r="54" fill="#0F3460"/>
-  <text x="65" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">487</text>
-  <text x="65" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9FB3D6">Contributions 2026</text>
-</svg>
-</td>
-<td align="center">
-<svg width="130" height="130" viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="65" cy="65" r="48" fill="#EEF2F7"/>
-  <circle cx="65" cy="65" r="54" fill="none" stroke="#E2E8F0" stroke-width="8"/>
-  <circle cx="65" cy="65" r="54" fill="none" stroke="#00D4FF" stroke-width="8" stroke-linecap="round" stroke-dasharray="339.29" stroke-dashoffset="74.64" transform="rotate(-90 65 65)"/>
-  <text x="65" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0F3460">78%</text>
-  <text x="65" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">Progression</text>
-</svg>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<p align="center">
-<img src="https://api.iconify.design/mdi:fire.svg?color=%23FF6B35" width="18" height="18" style="vertical-align:-3px;" /> <b>Streak actuel : 42 jours consécutifs</b>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momar-dev&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF" height="165" alt="Langages les plus utilisés"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Momar-dev&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" height="165" alt="Statistiques GitHub"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Momar-dev&hide_border=true&background=1A1A2E&stroke=0F3460&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3D6" alt="Streak GitHub"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Momar-dev&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+</div>
 
 ### Derniers Projets:
 - **WALLU Super-App** (Production Live)
 - **DahiraConnect SaaS** (Hackathon Participation)
 - **Portfolio Site Redesign** (Next.js)
 - **IA Agents Integration** (OpenAI + Gemini)
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Momar-dev&style=flat-square&color=00D4FF)
-
-</div>
 
 ---
 
@@ -455,7 +435,5 @@ Je suis toujours ouvert à discuter de projets innovants, collaborations tech, o
 <div align="center">
 
 **© 2026 Momar DIOP** | *Dernière mise à jour : 26 septembre 2026*
-
-*Crafted with <img src="https://api.iconify.design/mdi:heart.svg?color=%23E63946" width="16" height="16" style="vertical-align:-3px;" /> in Senegal*
 
 </div>
