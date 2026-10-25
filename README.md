@@ -385,6 +385,19 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 <img src="https://streak-stats.demolab.com/?user=Momar-dev&hide_border=true&background=1A1A2E&stroke=0F3460&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3D6" alt="Streak GitHub"/>
 
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Momar-dev&show_icons=true&icon_color=00D4FF&ring_color=00D4FF&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF" alt="Stats GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momar-dev&layout=compact&langs_count=8&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF" alt="Langages les plus utilisés"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Momar-dev&bg_color=1A1A2E&color=FFFFFF&line=00D4FF&point=FFFFFF&area=true&area_color=0F3460&hide_border=true&title_color=00D4FF" alt="Graphique d'activité" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Momar-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophées GitHub"/>
+
 </div>
 
 ### Derniers Projets :
