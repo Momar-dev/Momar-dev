@@ -179,6 +179,26 @@ Plateforme e-commerce avec intégration paiements mobiles Wave & Orange Money.
 
 ---
 
+### **RecipeBox** - Gestion de recettes bilingue
+Application web de recettes FR/EN permettant de découvrir, rechercher, organiser et partager des idées culinaires avec authentification, favoris persistants et gestion personnalisée des recettes.
+
+---
+
+### **UnitConvert** - Convertisseur d'unités Android
+Convertisseur d'unités natif Android rapide et 100% hors ligne, avec calcul en temps réel, échange de catégories dans les deux sens, explications de formules et interface Material 3 sombre.
+
+---
+
+### **TaskFlow** - Gestion de tâches mobile
+Application Android de gestion de tâches avec authentification, création et modification de tâches, suivi d'état, filtres et stockage local SQLite pour un usage personnel fiable et hors ligne.
+
+---
+
+### **QuizMaster** - Quiz Android
+Application de quiz native Android avec questions à choix multiples, feedback instantané, score, indicateurs de progression, explications et meilleur score enregistré en local pour un usage hors ligne.
+
+---
+
 ## ![Parcours & Étapes clés](https://img.shields.io/badge/-Parcours%20%26%20%C3%89tapes%20cl%C3%A9s-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRDRGRiIgZD0iTTcgMTFIOVYxM0g3VjExTTIxIDVWMTlDMjEgMjAuMTEgMjAuMTEgMjEgMTkgMjFINUMzLjg5IDIxIDMgMjAuMSAzIDE5VjVDMyAzLjkgMy45IDMgNSAzSDZWMUg4VjNIMTZWMUgxOFYzSDE5QzIwLjExIDMgMjEgMy45IDIxIDVNNSA3SDE5VjVINVY3TTE5IDE5VjlINVYxOUgxOU0xNSAxM1YxMUgxN1YxM0gxNU0xMSAxM1YxMUgxM1YxM0gxMU03IDE1SDlWMTdIN1YxNU0xNSAxN1YxNUgxN1YxN0gxNU0xMSAxN1YxNUgxM1YxN0gxMVoiLz48L3N2Zz4%3D)
 
 <table align="center" width="100%">
