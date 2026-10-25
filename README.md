@@ -10,9 +10,9 @@
 
 ---
 
-## ![Développeur Product-Oriented | Mobile, Web & AI](https://img.shields.io/badge/-D%C3%A9veloppeur%20Product--Oriented%20%7C%20Mobile%2C%20Web%20%26%20AI-0F3460?style=for-the-badge&logo=data:im[...]
+## Développeur Product-Oriented | Mobile, Web & AI
 
-Je conçois et déploie des applications complètes - du prototype à la production - avec un focus sur l'UX et les solutions innovantes. Dernière réalisation : **Wallu**, une super-app mobile p[...]
+Je conçois et déploie des applications complètes - du prototype à la production - avec un focus sur l'UX et les solutions innovantes. Dernière réalisation : **Wallu**, une super-app mobile pensée pour simplifier les services, le commerce et l'accès à l'IA dans un environnement de confiance.
 
 <p align="center">
   <a href="https://momar-dev.netlify.app" target="_blank">
@@ -33,31 +33,31 @@ Je conçois et déploie des applications complètes - du prototype à la product
 
 ---
 
-## ![Tech Stack](https://img.shields.io/badge/-Tech%20Stack-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyN[...]
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,sass,tailwind,bootstrap,nodejs,express,nestjs,laravel,django,spring,dotnet,cs,php,py,java,go,ruby,graphql,mongodb,mysql,pos[...]
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,sass,tailwind,bootstrap,nodejs,express,nestjs,laravel,django,spring,dotnet,cs,php,py,java,go,ruby,graphql,mongodb,mysql,postgresql,sqlite,git,github,figma&perline=12" alt="Tech Stack" />
 
 </div>
 
 ---
 
-## ![Statistiques & Certifications](https://img.shields.io/badge/-Statistiques%20%26%20Certifications-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd[...]
+## Statistiques & Certifications
 
 <div align="center">
 
-![App Store & Play Store](https://img.shields.io/badge/-App%20Store%20%26%20Play%20Store-0F3460?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd[...]
-![10+ Projets](https://img.shields.io/badge/-10%2B%20Projets-0F3460?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyN[...]
-![Licence Informatique 2026](https://img.shields.io/badge/-Licence%20Informatique%202026-0F3460?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd[...]
-![Certifié Azure, Google Cloud, Cisco](https://img.shields.io/badge/-Certifi%C3%A9%20Azure%2C%20Google%20Cloud%2C%20Cisco-0F3460?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0[...]
-![Disponible immédiatement](https://img.shields.io/badge/-Disponible%20imm%C3%A9diatement-0F3460?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9[...]
+![App Store & Play Store](https://img.shields.io/badge/-App%20Store%20%26%20Play%20Store-0F3460?style=flat-square)
+![10+ Projets](https://img.shields.io/badge/-10%2B%20Projets-0F3460?style=flat-square)
+![Licence Informatique 2026](https://img.shields.io/badge/-Licence%20Informatique%202026-0F3460?style=flat-square)
+![Certifié Azure, Google Cloud, Cisco](https://img.shields.io/badge/-Certifi%C3%A9%20Azure%2C%20Google%20Cloud%2C%20Cisco-0F3460?style=flat-square)
+![Disponible immédiatement](https://img.shields.io/badge/-Disponible%20imm%C3%A9diatement-0F3460?style=flat-square)
 
 </div>
 
 ---
 
-## ![Statistiques de Performance](https://img.shields.io/badge/-Statistiques%20de%20Performance-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv[...]
+## Statistiques de Performance
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Je conçois et déploie des applications complètes - du prototype à la product
 
 ---
 
-## ![Projet Phare : Wallu](https://img.shields.io/badge/-Projet%20Phare%20%3A%20Wallu-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdm[...]
+## Projet Phare : Wallu
 
 ### Super-App Mobile Complète *(iOS & Android)*
 *Janvier - Août 2026 | Client Commercial | Déploiement Production*
@@ -136,7 +136,7 @@ Rétention utilisateurs : +45%
 
 ---
 
-## ![Projets Notables](https://img.shields.io/badge/-Projets%20Notables-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g[...]
+## Projets Notables
 
 ### **DahiraConnect** - Hackathon CEZAT 2026
 *Août 2026 | Orange Digital Center, Tivaouane*
@@ -211,7 +211,7 @@ Application de quiz native Android avec questions à choix multiples, feedback i
 
 ---
 
-## ![Parcours & Étapes clés](https://img.shields.io/badge/-Parcours%20%26%20%C3%89tapes%20cl%C3%A9s-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53M[...]
+## Parcours & Étapes clés
 
 <table align="center" width="100%">
 <tr>
@@ -240,9 +240,9 @@ Application de quiz native Android avec questions à choix multiples, feedback i
 
 ---
 
-## ![Compétences par Niveau](https://img.shields.io/badge/-Comp%C3%A9tences%20par%20Niveau-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjA[...]
+## Compétences par Niveau
 
-### ![EXPERT](https://img.shields.io/badge/EXPERT-Ma%C3%AEtrise%20Compl%C3%A8te-22C55E?style=for-the-badge)
+### EXPERT
 
 <div align="center">
 
@@ -255,7 +255,7 @@ Application de quiz native Android avec questions à choix multiples, feedback i
 
 </div>
 
-### ![AVANCÉ](https://img.shields.io/badge/AVANC%C3%89-Production%20Ready-F59E0B?style=for-the-badge)
+### AVANCÉ
 
 <div align="center">
 
@@ -268,19 +268,19 @@ Application de quiz native Android avec questions à choix multiples, feedback i
 
 </div>
 
-### ![INTERMÉDIAIRE](https://img.shields.io/badge/INTERM%C3%89DIAIRE-En%20Progression-3B82F6?style=for-the-badge)
+### INTERMÉDIAIRE
 
 <div align="center">
 
 | Backend | Bases de Données | DevOps | Mobile | Autres |
 |:---:|:---:|:---:|:---:|:---:|
-| PHP<br/>Python<br/>Laravel<br/>NestJS<br/>Go<br/>Ruby<br/>C# → .NET → ASP.NET Core → Entity Framework Core | SQL Server | Docker<br/>Kubernetes | Flutter<br/>Java | WordPress<br/>Digital [...] 
+| PHP<br/>Python<br/>Laravel<br/>NestJS<br/>Go<br/>Ruby<br/>C# → .NET → ASP.NET Core → Entity Framework Core | SQL Server | Docker<br/>Kubernetes | Flutter<br/>Java | WordPress<br/>Digital Marketing |
 
 </div>
 
 ---
 
-## ![Expertise & Domaines](https://img.shields.io/badge/-Expertise%20%26%20Domaines-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdm[...]
+## Expertise & Domaines
 
 <div align="center">
 
@@ -300,7 +300,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 ---
 
-## ![Stack Technique](https://img.shields.io/badge/-Stack%20Technique-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9I[...]
+## Stack Technique
 
 ### **Langages de Programmation**
 
@@ -308,7 +308,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | JavaScript | Python | Java | PHP | TypeScript | HTML5 | CSS3 | Go | Ruby | C# |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Avancé-3776AB?style=flat-square&logo=python&[...]
+| <img src="https://img.shields.io/badge/Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Avancé-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-ED8B00?style=flat-square&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-777BB4?style=flat-square&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-00ADD8?style=flat-square&logo=go&logoColor=white" /> | <img src="https://img.shields.io/badge/Intermédiaire-CC342D?style=flat-square&logo=ruby&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-512BD4?style=flat-square&logo=csharp&logoColor=white" /> |
 
 </div>
 
@@ -318,7 +318,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | React | Next.js | React Native | Expo | Bootstrap | Tailwind | Express | Node.js | Spring Boot | Django | Flutter | Laravel | NestJS | ASP.NET Core |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Avancé-000000?style=flat-square&logo=nextdotjs&logoColor=white) [...]
+| <img src="https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/Avancé-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/Avancé-000020?style=flat-square&logo=expo&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-000000?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-092E20?style=flat-square&logo=django&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-02569B?style=flat-square&logo=flutter&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> |
 
 </div>
 
@@ -328,7 +328,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | Firebase | MongoDB | MySQL | PostgreSQL | SQLite | SQL Server | Node.js |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![](https://img.shields.io/badge/Expert-47A248?style=flat-square&logo=mongodb&logoColor=white) [...]
+| <img src="https://img.shields.io/badge/Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> | <img src="https://img.shields.io/badge/Expert-47A248?style=flat-square&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-003B57?style=flat-square&logo=sqlite&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> |
 
 </div>
 
@@ -338,7 +338,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | OpenAI | Google Gemini | Chatbots & Agents | REST APIs | GraphQL | JSON |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Expert-412991?style=flat-square&logo=openai&logoColor=white) | ![](https://img.shields.io/badge/Expert-8E75B2?style=flat-square&logo=googlegemini&logoColor=whit[...]
+| <img src="https://img.shields.io/badge/Expert-412991?style=flat-square&logo=openai&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-4F46E5?style=flat-square" /> | <img src="https://img.shields.io/badge/Expert-FF6B6B?style=flat-square" /> | <img src="https://img.shields.io/badge/Avancé-E10098?style=flat-square&logo=graphql&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-000000?style=flat-square" /> |
 
 </div>
 
@@ -348,7 +348,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | Microsoft Azure | Google Cloud | Cloudflare | cPanel | DNS | Let's Encrypt | Git/GitHub | Docker |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Avancé-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) | ![](https://img.shields.io/badge/Avancé-4285F4?style=flat-square&logo=googlecloud&logoC[...]
+| <img src="https://img.shields.io/badge/Avancé-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-0A6EBD?style=flat-square" /> | <img src="https://img.shields.io/badge/Avancé-0088CC?style=flat-square" /> | <img src="https://img.shields.io/badge/Avancé-003A70?style=flat-square" /> | <img src="https://img.shields.io/badge/Expert-181717?style=flat-square&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/Avancé-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
 
 </div>
 
@@ -358,7 +358,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | Figma | UI/UX Design | SEO & SEA | Google Analytics | WordPress | Digital Marketing |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Avancé-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![](https://img.shields.io/badge/Expert-FF6F61?style=flat-square) | ![](https://img.shields.io/ba[...]
+| <img src="https://img.shields.io/badge/Avancé-F24E1E?style=flat-square&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-FF6F61?style=flat-square" /> | <img src="https://img.shields.io/badge/Avancé-4285F4?style=flat-square" /> | <img src="https://img.shields.io/badge/Avancé-E37400?style=flat-square" /> | <img src="https://img.shields.io/badge/Avancé-21759B?style=flat-square&logo=wordpress&logoColor=white" /> | <img src="https://img.shields.io/badge/Expert-FF5722?style=flat-square" /> |
 
 </div>
 
@@ -368,13 +368,13 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 | Résolution de Problèmes | Communication | Travail d'Équipe | Autonomie | Leadership | Innovation |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) | ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) | ![5/5](https://img.shields.io/badge/5%2F5-FFC107?styl[...]
+| ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) | ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) | ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) | ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) | ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) | ![5/5](https://img.shields.io/badge/5%2F5-FFC107?style=flat-square) |
 
 </div>
 
 ---
 
-## ![Formation & Certifications](https://img.shields.io/badge/-Formation%20%26%20Certifications-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmc[...]
+## Formation & Certifications
 
 <div align="center">
 
@@ -391,11 +391,11 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 ---
 
-## ![GitHub Contributions](https://img.shields.io/badge/-GitHub%20Contributions-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g[...]
+## GitHub Contributions
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Momar-dev&hide_border=true&background=1A1A2E&stroke=0F3460&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&s[...]
+<img src="https://streak-stats.demolab.com/?user=Momar-dev&hide_border=true&background=1A1A2E&stroke=0F3460&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub contributions" />
 
 </div>
 
@@ -407,7 +407,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 ---
 
-## ![Prochaines Étapes](https://img.shields.io/badge/-Prochaines%20%C3%89tapes-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g[...]
+## Prochaines Étapes
 
 <div align="center">
 
@@ -421,7 +421,7 @@ Déploiement Azure, Google Cloud, Cloudflare, gestion DNS, SSL/HTTPS, orchestrat
 
 ---
 
-## ![Prenons Contact](https://img.shields.io/badge/-Prenons%20Contact-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9I[...]
+## Prenons Contact
 
 Je suis toujours ouvert à discuter de projets innovants, collaborations tech, ou opportunités de croissance.
 
