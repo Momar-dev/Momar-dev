@@ -4,17 +4,17 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Momar-dev.Momar-dev&left_color=1A1A2E&right_color=0F3460&style=flat-square)
 
-![Dynamic Badge](https://img.shields.io/badge/Full--Stack%20Junior%20Developer-0F3460?style=flat-square&logo=code&logoColor=white)
-![Dynamic Badge](https://img.shields.io/badge/Web%2C%20Mobile%20%26%20AI-16213E?style=flat-square&logo=smartphone&logoColor=white)
-![Dynamic Badge](https://img.shields.io/badge/Open%20to%20Opportunities-00D4FF?style=flat-square&logo=rocket&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Junior%20Developer-0F3460?style=flat-square&logo=code&logoColor=white)
+![Mobile & AI](https://img.shields.io/badge/Web%2C%20Mobile%20%26%20AI-16213E?style=flat-square&logo=smartphone&logoColor=white)
+![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-00D4FF?style=flat-square&logo=rocket&logoColor=white)
 
 ---
 
-## ![Développeur Full-Stack & Mobile | Web, Mobile & IA](https://img.shields.io/badge/-D%C3%A9veloppeur%20Full--Stack%20%26%20Mobile%20%7C%20Web%2C%20Mobile%20%26%20IA-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRDRGRiIgZD0iTTEyLDE3LjI3TDE4LjE4LDIxTDE2LjU0LDEzLjk3TDIyLDkuMjRMMTQuODEsOC42MkwxMiwyTDkuMTksOC42MkwyLDkuMjRMNy40NSwxMy45N0w1LjgyLDIxTDEyLDE3LjI3WiIvPjwvc3ZnPg%3D%3D)
+## ![Développeur Full-Stack & Mobile](https://img.shields.io/badge/-D%C3%A9veloppeur%20Full--Stack%20%26%20Mobile%20%7C%20Web%2C%20Mobile%20%26%20IA-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRDRGRiIgZD0iTTEyLDE3LjI3TDE4LjE4LDIxTDE2LjU0LDEzLjk3TDIyLDkuMjRMMTQuODEsOC42MkwxMiwyTDkuMTksOC42MkwyLDkuMjRMNy40NSwxMy45N0w1LjgyLDIxTDEyLDE3LjI3WiIvPjwvc3ZnPg%3D%3D)
 
-Diplômé en informatique et passionné par les architectures modernes, je conçois et livre des applications web, mobiles et des intégrations d'IA fiables, esthétiques et orientées utilisateurs. 
+Diplômé en informatique et passionné par les architectures logicielles modernes, je conçois et déploie des applications web, mobiles et des solutions d'intelligence artificielle fiables, performantes et centrées sur l'expérience utilisateur.
 
-Dernière réalisation majeure : **Wallu**, une super-application mobile publiée sur l'**App Store** & **Google Play**.
+Dernière réalisation majeure : **Wallu**, une super-application mobile déployée et publiée sur l'**App Store** et **Google Play**.
 
 <p align="center">
   <a href="https://momar-dev.netlify.app" target="_blank">
@@ -48,14 +48,14 @@ Dernière réalisation majeure : **Wallu**, une super-application mobile publié
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>💻 Frontend & Web Moderne</b><br/>
+      <b>Frontend &amp; Web Moderne</b><br/>
       • <b>Frameworks :</b> React 19, Next.js, Vite<br/>
       • <b>Langages :</b> TypeScript, JavaScript (ES6+), HTML5, CSS3<br/>
-      • <b>Styling & UX :</b> Tailwind CSS, Responsive Design, WCAG 2.1<br/>
-      • <b>Performance :</b> SEO Technique, Lighthouse 90+
+      • <b>Styling &amp; UX :</b> Tailwind CSS, Responsive Design, WCAG 2.1<br/>
+      • <b>Performance :</b> SEO Technique, Optimisation Web Vitals
     </td>
     <td width="50%" valign="top">
-      <b>📱 Développement Mobile</b><br/>
+      <b>Développement Mobile</b><br/>
       • <b>Multiplateforme :</b> React Native, Expo, EAS Build<br/>
       • <b>Natif :</b> Java / Android Natif, Android Studio<br/>
       • <b>Cross-Platform :</b> Flutter<br/>
@@ -64,19 +64,19 @@ Dernière réalisation majeure : **Wallu**, une super-application mobile publié
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>⚙️ Backend, APIs & Données</b><br/>
-      • <b>Node.js :</b> Express.js, APIs RESTful, JWT/bcrypt<br/>
+      <b>Backend, APIs &amp; Données</b><br/>
+      • <b>Node.js :</b> Express.js, APIs RESTful, JWT / bcrypt<br/>
       • <b>Python :</b> Flask, Django<br/>
       • <b>Java :</b> Spring Boot<br/>
-      • <b>PHP :</b> Web backends & scripts<br/>
+      • <b>PHP :</b> Web backends &amp; scripts<br/>
       • <b>Bases de données :</b> PostgreSQL, MySQL, SQLite, MongoDB, Firebase Firestore, Supabase
     </td>
     <td width="50%" valign="top">
-      <b>⚡ IA, Vibe Coding & DevOps</b><br/>
-      • <b>Vibe Coding & IDEs IA :</b> Cursor, Antigravity, OpenCode CLI, Qoder<br/>
-      • <b>IA & LLMs :</b> Gemini IA, OpenAI API, Chatbots, NLP & scikit-learn<br/>
+      <b>IA, Vibe Coding &amp; DevOps</b><br/>
+      • <b>Vibe Coding &amp; IDEs IA :</b> Cursor, Antigravity, OpenCode CLI, Qoder<br/>
+      • <b>IA &amp; LLMs :</b> Gemini IA, OpenAI API, Chatbots, NLP &amp; scikit-learn<br/>
       • <b>Prototypage :</b> Google AI Studio, v0, Bolt<br/>
-      • <b>Outils & Déploiement :</b> Git, GitHub, Docker, Cloudflare, Netlify, GCP, Figma
+      • <b>DevOps &amp; Cloud :</b> Git, GitHub, Docker, Cloudflare, Netlify, GCP, Figma
     </td>
   </tr>
 </table>
@@ -99,35 +99,35 @@ Dernière réalisation majeure : **Wallu**, une super-application mobile publié
 
 ## ![Projets Clés](https://img.shields.io/badge/-Projets%20Cl%C3%A9s-0F3460?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRDRGRiIgZD0iTTE4IDJDMTcuMSAyIDE2IDMgMTYgNEg4QzggMyA2LjkgMiA2IDJIMlYxMUMyIDEyIDMgMTMgNCAxM0g2LjJDNi42IDE1IDcuOSAxNi43IDExIDE3VjE5LjA4QzggMTkuNTQgOCAyMiA4IDIySDE2QzE2IDIyIDE2IDE5LjU0IDEzIDE5LjA4VjE3QzE2LjEgMTYuNyAxNy40IDE1IDE3LjggMTNIMjBDMjEgMTMgMjIgMTIgMjIgMTFWMkgxOE02IDExSDRWNEg2VjExTTE2IDExLjVDMTYgMTMuNDMgMTUuNDIgMTUgMTIgMTVDOC41OSAxNSA4IDEzLjQzIDggMTEuNVY2SDE2VjExLjVNMjAgMTFIMThWNEgyMFYxMVoiLz48L3N2Zz4%3D)
 
-### 🚀 **Wallu – Super-App Mobile de Services** *(iOS & Android)*
+### **Wallu – Super-App Mobile de Services** *(iOS & Android)*
 *Responsable technique | Janvier – Juillet 2026*  
 Application mobile complète (prestataires vérifiés, courses, livraison express, marketplace) avec assistant IA Gemini et messages vocaux.  
 **Stack :** `React Native (Expo)` · `Node.js` · `Firebase` · `Gemini IA` · `Tailwind CSS` · `EAS Build`  
-🔗 Publiée sur **App Store** et **Google Play** · [Site officiel](https://wallu.sn)
+Publiée sur **App Store** et **Google Play** · [Site officiel](https://wallu.sn)
 
 ---
 
-### 🏆 **DahiraConnect – Plateforme SaaS de Gestion**
+### **DahiraConnect – Plateforme SaaS de Gestion**
 *Hackathon CEZAT 2026 (Orange Digital Center · Sonatel)*  
 Plateforme SaaS de gestion de cotisations avec paiements mobiles Wave & Orange Money et tableaux de bord financiers par rôles.  
 **Stack :** `React` · `Vite` · `Tailwind CSS` · `Express` · `Node.js` · `SQLite`  
-🔗 [Code Source](https://github.com/Momar-dev/DahiraConnect-Projet-HackatonODC-)
+[Code Source](https://github.com/Momar-dev/DahiraConnect-Projet-HackatonODC-)
 
 ---
 
-### 💳 **SAMAKOPPAR Bank – Application Bancaire Sécurisée**
+### **SAMAKOPPAR Bank – Application Bancaire Sécurisée**
 Gestion de comptes bancaires, transactions financières temps réel, sécurité JWT et contrôle d'accès.  
 **Stack :** `Java Spring Boot` · `React` · `MySQL` · `JWT` · `REST API`
 
 ---
 
-### 🤖 **Jaay Mi AI – Chatbot & Comparateur de Prix Alimentaires**
+### **Jaay Mi AI – Chatbot & Comparateur de Prix Alimentaires**
 Comparateur intelligent de prix basé sur 214 denrées au Sénégal avec NLP bilingue français/wolof et repli sur Gemini IA.  
 **Stack :** `Python` · `Flask` · `scikit-learn` · `Gemini IA` · `SQLite`
 
 ---
 
-### 📲 **E-Pointage – Système Anti-Fraude de Pointage**
+### **E-Pointage – Système Anti-Fraude de Pointage**
 Application mobile et web avec QR codes dynamiques éphémères et sécurisation matérielle par Device Fingerprinting.  
 **Stack :** `React Native` · `Node.js` · `SQLite` · `SSE`
 
@@ -135,20 +135,20 @@ Application mobile et web avec QR codes dynamiques éphémères et sécurisation
 
 ---
 
-## ![GitHub Activity & Stats](https://img.shields.io/badge/-GitHub%20Stats-0F3460?style=for-the-badge&logo=github&logoColor=white)
+## ![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-0F3460?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Momar-dev&hide_border=true&background=1A1A2E&stroke=0F3460&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3D6" alt="Streak GitHub"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Momar-dev&show_icons=true&icon_color=00D4FF&ring_color=00D4FF&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF" alt="Stats GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momar-dev&layout=compact&langs_count=8&hide_border=true&bg_color=1A1A2E&title_color=00D4FF&text_color=FFFFFF" alt="Langages les plus utilisés"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Momar-dev&bg_color=1A1A2E&color=FFFFFF&line=00D4FF&point=FFFFFF&area=true&area_color=0F3460&hide_border=true&title_color=00D4FF" alt="Graphique d'activité" width="95%"/>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Momar-dev&show_icons=true&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460&include_all_commits=true&count_private=true" alt="Momar's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momar-dev&layout=compact&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -167,7 +167,7 @@ Une opportunité, un projet ou une collaboration ? Je suis disponible immédiate
 
 <br/>
 
-**Localisation :** Dakar, Sénégal (Disponible pour télétravail international & sur site)
+**Localisation :** Dakar, Sénégal (Disponible pour télétravail international &amp; sur site)
 
 </div>
 
@@ -175,6 +175,6 @@ Une opportunité, un projet ou une collaboration ? Je suis disponible immédiate
 
 <div align="center">
 
-**© 2026 Momar DIOP** · *Développeur Full-Stack Junior (Web, Mobile & IA)*
+**© 2026 Momar DIOP** · *Développeur Full-Stack Junior (Web, Mobile &amp; IA)*
 
 </div>
