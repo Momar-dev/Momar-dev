@@ -39,7 +39,7 @@ Dernière réalisation majeure : **Wallu**, une super-application mobile déploy
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,vite,nodejs,express,py,django,java,spring,php,flutter,androidstudio,postgres,mysql,sqlite,mongodb,firebase,supabase,docker,gcp,cloudflare,git,github,figma&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,flutter,androidstudio,nodejs,express,spring,django,py,php,postgres,mysql,sqlite,mongodb,firebase,supabase,docker,gcp,cloudflare,git,github,figma&perline=10" alt="Tech Stack" />
 
 </div>
 
@@ -139,16 +139,7 @@ Application mobile et web avec QR codes dynamiques éphémères et sécurisation
 
 <div align="center">
 
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Momar-dev&show_icons=true&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460&include_all_commits=true&count_private=true" alt="Momar's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momar-dev&layout=compact&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Momar-dev&show_icons=true&hide=prs,issues,contribs&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460&include_all_commits=true&count_private=true" alt="Momar's GitHub Stats" />
 
 </div>
 
