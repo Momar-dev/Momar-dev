@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Momar DIOP
 
@@ -12,9 +12,9 @@
 
 ## Développeur Full-Stack & Mobile | Web, Mobile & IA
 
-Diplômé en informatique, je conçois et développe des applications web, mobiles et des solutions intégrant l'intelligence artificielle. J'aime transformer des idées en produits numériques utiles, performants et centrés sur l'expérience utilisateur.
+Diplômé en informatique, je conçois et développe des applications web, mobiles et des solutions logicielles intégrant l'intelligence artificielle. J'aime transformer des idées en produits numériques fiables, performants et centrés sur l'expérience utilisateur.
 
-Ma réalisation majeure : **Wallu**, une application mobile de services publiée sur l'**App Store** et **Google Play**.
+🚀 **Réalisation majeure :** [**Wallu**](https://wallu.sn), application mobile de services déployée et active sur l'[App Store](https://apps.apple.com/sn/app/wallu-services-au-s%C3%A9n%C3%A9gal/id6796547523?l=fr-FR) et [Google Play](https://play.google.com/store/apps/details?id=wallu.sn&hl=fr).
 
 <p align="center">
   <a href="https://momar-dev.netlify.app">
@@ -39,7 +39,7 @@ Ma réalisation majeure : **Wallu**, une application mobile de services publiée
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,flutter,androidstudio,nodejs,express,py,postgres,sqlite,mongodb,firebase,docker,git,github,figma&perline=10" alt="Technologies utilisées" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,flutter,dart,androidstudio,nodejs,express,py,postgres,sqlite,mongodb,firebase,prisma,docker,git,github,figma&perline=11" alt="Technologies utilisées" />
 
 </div>
 
@@ -52,45 +52,49 @@ Ma réalisation majeure : **Wallu**, une application mobile de services publiée
       • React, Next.js, Vite<br/>
       • TypeScript, JavaScript (ES6+)<br/>
       • HTML5, CSS3, Tailwind CSS<br/>
-      • Responsive Design, accessibilité<br/>
-      • SEO technique
+      • Responsive Design & Accessibilité (WCAG)<br/>
+      • Optimisation SEO technique & PageSpeed 95+
     </td>
     <td width="50%" valign="top">
       <b>Développement Mobile</b><br/><br/>
       • React Native, Expo, EAS Build<br/>
-      • Flutter<br/>
+      • Flutter & Dart<br/>
       • Java / Android natif<br/>
-      • Architecture Offline-first<br/>
-      • QR Codes et sécurité
+      • Architecture Offline-first & SQLite<br/>
+      • Déploiement App Store & Google Play
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>Backend, APIs & Données</b><br/><br/>
-      • Node.js, Express.js, Python, Flask<br/>
-      • APIs REST, JWT<br/>
-      • PostgreSQL, SQLite, MongoDB<br/>
-      • Firebase, Prisma
+      • Node.js, Express.js, NestJS<br/>
+      • Python, Flask<br/>
+      • APIs RESTful, JWT, WebSockets<br/>
+      • PostgreSQL, SQLite, MySQL, MongoDB<br/>
+      • Firebase, Prisma ORM
     </td>
     <td width="50%" valign="top">
       <b>Intelligence Artificielle</b><br/><br/>
       • Gemini AI, OpenAI API<br/>
-      • Intégration de LLM<br/>
-      • Chatbots et assistants IA<br/>
-      • NLP et traitement du langage
+      • Intégration de LLM & Chatbots intelligents<br/>
+      • NLP bilingue (Français & Wolof)<br/>
+      • RAG & Traitement du langage naturel
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Outils de développement</b><br/><br/>
-      • Git, GitHub, Docker<br/>
-      • Figma, EAS Build
+      <b>Outils & DevOps</b><br/><br/>
+      • Git, GitHub, GitLab, Docker<br/>
+      • Cloudflare, EAS Build, Postman<br/>
+      • Cursor, GitHub Copilot<br/>
+      • Figma (UI/UX)
     </td>
     <td width="50%" valign="top">
-      <b>Assistants IA pour le développement</b><br/><br/>
-      • Claude, Google AI Studio<br/>
-      • GitHub Copilot, Cursor<br/>
-      • Google Antigravity
+      <b>Architecture & Bonnes Pratiques</b><br/><br/>
+      • Clean Code & Clean Architecture<br/>
+      • Principes SOLID<br/>
+      • Sécurité des APIs & Auth JWT/bcrypt<br/>
+      • Méthodologie Agile (Scrum)
     </td>
   </tr>
 </table>
@@ -105,7 +109,7 @@ Ma réalisation majeure : **Wallu**, une application mobile de services publiée
 ![Projects](https://img.shields.io/badge/Projets-22%2B-0F3460?style=flat-square&logo=github&logoColor=white)
 ![Degree](https://img.shields.io/badge/Dipl%C3%B4me-Licence%20en%20Informatique-0F3460?style=flat-square)
 ![Certifications](https://img.shields.io/badge/Certifications-Google%20Cloud%20%26%20Cisco-0F3460?style=flat-square)
-![Opportunities](https://img.shields.io/badge/Disponibilit%C3%A9-Opportunit%C3%A9s%20professionnelles-00D4FF?style=flat-square)
+![Opportunities](https://img.shields.io/badge/Disponibilit%C3%A9-T%C3%A9l%C3%A9travail%20%2F%20CDI%20%2F%20Freelance-00D4FF?style=flat-square)
 
 </div>
 
@@ -113,53 +117,47 @@ Ma réalisation majeure : **Wallu**, une application mobile de services publiée
 
 ## Projets clés
 
-### Wallu – Super-App Mobile de Services
+### 📱 Wallu – Super-App Mobile de Services
 *Responsable technique | Janvier – Juillet 2026*
 
 Application mobile de services : prestataires vérifiés, courses au marché, livraison express et marketplace locale. Intégration d'un assistant IA Gemini et d'un forum communautaire avec messages vocaux.
 
 **Stack :** `React Native (Expo)` · `React` · `Node.js` · `Firebase` · `Gemini AI` · `Tailwind CSS` · `EAS Build`
 
-Publiée sur **App Store** et **Google Play** · [Site officiel](https://wallu.sn)
+📲 **Disponible sur :** [App Store (iOS)](https://apps.apple.com/sn/app/wallu-services-au-s%C3%A9n%C3%A9gal/id6796547523?l=fr-FR) · [Google Play (Android)](https://play.google.com/store/apps/details?id=wallu.sn&hl=fr) · [Site officiel](https://wallu.sn)
 
 ---
 
-### DahiraConnect – Plateforme SaaS de Gestion
+### 💳 DahiraConnect – Plateforme SaaS de Gestion
 *Hackathon CEZAT 2026 (Orange Digital Center · Sonatel)*
 
-Plateforme SaaS de gestion de cotisations, membres et transactions, avec paiements mobiles Wave et Orange Money et tableaux de bord par rôle.
+Plateforme SaaS de gestion de cotisations, membres et transactions, avec paiements mobiles Wave et Orange Money et tableaux de bord dédiés par rôle (administrateurs, trésoriers, présidents).
 
 **Stack :** `React` · `Vite` · `Tailwind CSS` · `Express` · `Node.js` · `SQLite`
 
-[Code source](https://github.com/Momar-dev/DahiraConnect-Projet-HackatonODC-)
+🔗 [Code source](https://github.com/Momar-dev/DahiraConnect-Projet-HackatonODC-)
 
 ---
 
-### SAMAKOPPAR Bank – Application Bancaire Sécurisée
+### 🤖 Jaay Mi AI – Chatbot & Comparateur de Prix Alimentaires
 
-Application de gestion de comptes bancaires, transactions financières, authentification JWT et contrôle des accès.
-
-**Stack :** `Java Spring Boot` · `React` · `MySQL` · `JWT` · `REST API`
-
----
-
-### Jaay Mi AI – Chatbot & Comparateur de Prix Alimentaires
-
-Comparateur intelligent basé sur 214 prix de denrées alimentaires au Sénégal, avec NLP bilingue français/wolof et intégration de Gemini AI.
+Comparateur intelligent basé sur 214 prix de denrées alimentaires au Sénégal, avec NLP bilingue français/wolof et repli automatique sur Gemini AI.
 
 **Stack :** `Python` · `Flask` · `scikit-learn` · `Gemini AI` · `SQLite`
 
----
-
-### E-Pointage – Système Anti-Fraude de Pointage
-
-Application mobile et web de pointage avec QR codes dynamiques éphémères et mécanismes de sécurisation par Device Fingerprinting.
-
-**Stack :** `React Native` · `Node.js` · `SQLite` · `SSE`
+🔗 [Code source](https://github.com/Momar-dev/jaay-mi-chatbot)
 
 ---
 
-*Retrouvez mes **22 projets** et leurs détails sur mon [portfolio](https://momar-dev.netlify.app).*
+### 🔐 E-Pointage – Système Anti-Fraude de Pointage
+
+Application mobile et web de pointage scolaire/professionnel par QR codes dynamiques éphémères et sécurisation matérielle par Device Fingerprinting.
+
+**Stack :** `React Native` · `Node.js` · `SQLite` · `SSE` · `mDNS`
+
+---
+
+*Retrouvez l'ensemble de mes **22 projets** en détail sur mon [Portfolio](https://momar-dev.netlify.app).*
 
 ---
 
@@ -184,9 +182,9 @@ Une opportunité professionnelle, un projet ou une collaboration ? Je serais rav
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momardiop0311@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/221777542053)
 
-**Localisation :** Sénégal · Disponible pour le télétravail et les opportunités sur site.
+**Localisation :** Dakar & Thiès, Sénégal · Disponible pour le télétravail international, CDI ou missions freelance.
 
-**Langues :** Français (C2) · Anglais (B2)
+**Langues :** Français (C2 - courant) · Anglais (B2 - professionnel)
 
 <br/>
 
