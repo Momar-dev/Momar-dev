@@ -165,7 +165,8 @@ Application mobile et web de pointage scolaire/professionnel par QR codes dynami
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Momar-dev&show_icons=true&hide=prs,issues,contribs&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460&include_all_commits=true&count_private=true" alt="Momar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Momar-dev&show_icons=true&hide=prs,issues,contribs&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460&include_all_commits=true&count_private=true" alt="Momar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momar-dev&layout=compact&icon_color=00D4FF&text_color=FFFFFF&bg_color=1A1A2E&title_color=00D4FF&border_color=0F3460" alt="Top Languages" />
 
 </div>
 
